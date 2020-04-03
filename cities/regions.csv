@@ -1,0 +1,14 @@
+region_id,capital_city_id,name_ar,name_en
+1,3,منطقة الرياض,Riyadh
+2,6,منطقة مكة المكرمة,Makkah
+3,14,منطقة المدينة المنورة,Madinah
+4,11,منطقة القصيم,Qassim
+5,13,المنطقة الشرقية,Eastern Province
+6,15,منطقة عسير,Asir
+7,1,منطقة تبوك,Tabuk
+8,10,منطقة حائل,Hail
+9,2213,منطقة الحدود الشمالية,Northern Borders
+10,17,منطقة جازان,Jizan
+11,3417,منطقة نجران,Najran
+12,1542,منطقة الباحة,Bahah
+13,2237,منطقة الجوف,Jawf

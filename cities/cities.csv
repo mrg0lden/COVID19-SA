@@ -1,0 +1,3948 @@
+city_id,region_id,name_ar,name_en
+1,7,تبوك,Tabuk
+2,7,نعمي,Na'mi
+3,1,الرياض,Riyadh
+4,7,حميط,Humayt
+5,2,الطائف,At Taif
+6,2,مكة المكرمة,Makkah Al Mukarramah
+7,7,رجم الطيارة,Rajm At Tayarah
+8,7,الثميد,Ath Thumayd
+9,7,عسيلة,'asillah
+10,8,حائل,Hail
+11,4,بريدة,Buraydah
+12,5,الهفوف,Al Hufuf
+13,5,الدمام,Dammam
+14,3,المدينة المنورة,Al Madinah Al Munawwarah
+15,6,ابها,Abha
+16,7,حالة عمار,Halat Ammar
+17,10,جازان,Jazan
+18,2,جدة,Jeddah
+19,7,الشايب,Ash Shayib
+20,7,الفوهة,Al Fawhah
+21,7,اللوز,Al Lawz
+22,7,عين الأخضر,'ayn Al Akhdar
+23,7,ذات الحاج,Dhat Al Hajj
+24,1,المجمعة,Al Majma'ah
+25,7,قيال,Qiyal
+26,7,الاخضر,Al Akhdar
+27,7,البديعة,Al Badi'ah
+28,7,مغيرة,Mughayrah
+29,7,الهوجاء,Al Hawja'
+30,7,البديع,Al Badi'
+31,5,الخبر,Al Khobar
+32,7,ابار قنا,Abar Qana
+33,7,الجبعاوية,Al Jab'awiyah
+34,7,الحميضة,Al Humaydah
+35,7,البيانة,Al Bayyanah
+36,7,حقل,Haql
+37,7,الدرة,Ad Durrah
+38,7,الزيتة,Az Zaytah
+39,7,علقان,'alaqan
+40,7,الوادي الجديد,Al Wadi Al Jadid
+41,7,مليح,Mulayh
+42,7,ابو الحنشان,Abu Al Hinshan
+43,7,مقنا,Maqna
+44,5,ابو قعر,Abu Qa'ar
+45,5,مركز العوجاء,Markaz Al 'awja
+46,5,مركز العليمة,Markaz Al 'ulayyimah
+47,5,حفر الباطن,Hafar Al Batin
+48,5,القلت,Al Qalt
+49,5,النظيم,An Nadhim
+50,5,ابن طوالة,Ibn Tuwalah
+51,5,الصداوي,As Sidawi
+52,5,ام قليب,Umm Qulaib
+53,5,عريفج,Urayfij
+54,5,ابن شرار,Ibn Sharar
+55,5,القيصومة,Al Qaysumah
+56,5,الرقعي الجديدة,Ar Ruq'i Al Jadidah
+57,5,ذبحة,Dhabhah
+58,5,الصفيري,As Sufairy
+59,5,الوايلية,Al Wayliyah
+60,5,الفيوان,Al Fiwan
+61,5,الحماطيات,Al Hamatiyat
+62,6,خميس مشيط,Khamis Mushayt
+63,5,الجبو,Al Jabu
+64,5,المسناة,Al Masnah
+65,6,احد رفيده,Ahad Rifaydah
+66,5,ام عشر الشرقية,Umm Ishar Ash Sharqiyyah
+67,5,القطيف,Al Qatif
+68,7,بوهان,Buhan
+69,7,السنانيات,As Sananiyat
+70,7,حزايا,Hazaya
+71,7,أكباد,Akbad
+72,7,بئر الحيز,Bir Al Hayz
+73,7,جريداء,Jurayda
+74,7,تيماء,Tayma'
+75,7,العسافية,Al Assafiyah
+76,3,عردة,'ardah
+77,7,الكتيب,Al Kutaib
+78,7,بئر فجر,Bi'r Fajr
+79,7,القليبة,Al Qalibah
+80,4,عنيزة,Unayzah
+81,5,الرافعية,Ar Raf'iyah
+82,5,الكبريت,Al Kabarit
+83,5,رغوة,Raghwah
+84,5,حمى,Hamma
+85,5,الزبر,Az Zabr
+86,5,السفانية,As Saffaniyah
+87,5,المحوى,Al Mahawa
+88,5,أم غور,Umm Ghawr
+89,5,قرية العليا,Qaryat Al 'ulya
+90,5,الرفيعة,Ar Rafi'ah
+91,5,جرارة,Jarrarah
+92,5,قرية,Qurayyah
+93,5,البويبيات,Al Buwaybiyat
+94,5,السعيرة,As Su'ayyirah
+95,5,مناخ,Manakh
+96,5,الحيرا,Al Hayra
+97,5,ام الشفلح,Umm Ash Shifallah
+98,5,اللهابة,Al Lahabah
+99,5,الفريدة,Al Farridah
+100,5,الشامية,Ash Shamiyah
+101,1,العيطلية,Al 'aytaliyah
+102,5,سحمة,Sihmah
+103,5,الشملول / ام عقلا,Ash Shamlul (Umm Aqla)
+104,5,ام الهوشات,Umm Al Hawshat
+105,5,الشيط,Ash Shayyit
+106,5,العاذرية,Al 'adhiriyah
+107,5,الشيحية,Ash Shihiyah
+108,1,حزوة / العمانية,Hizwah (Al Umaniyah)
+109,5,القرعاء,Al Qar'a'
+110,5,اللصافة,Al Lisafah
+111,5,النقيرة,An Nuqayrah
+112,5,هجرة أولاد حثلين,Hijrat Awlad Hithlin
+113,5,الجبيل,Al Jubail
+114,5,فرزان,Farzan
+115,5,النعيرية,An Nu'ayriyah
+116,5,ام ضليع,Umm Dulay'
+117,5,مليجة,Mulayjah
+118,5,الصرار,As Sarrar
+119,5,حنيذ,Hanidh
+120,5,مغطي,Mughati
+121,5,شفية,Shifiyah
+122,5,عتيق,Utayyiq
+123,5,الحسي,Al Husayy
+124,5,ثاج,Thaj
+125,5,الحناة,Al Hinnah
+126,5,الكهفة,Al Kahafah
+127,5,الصحاف,As Sahaf
+128,5,العيينة,Al 'uyaynah
+129,5,القليب,Al Qulayyib
+130,5,الونان,Al Wannan
+131,5,غنوى,Ghanwa
+132,5,الزغين,Az Zughayn
+133,5,نطاع,Nita'
+134,5,ام الحمام,Umm Al Hamam
+135,5,ام ربيعة,Umm Rubay'ah
+136,5,ابو حدرية,Abu Hadriyah
+137,5,منيفة,Munifah
+138,1,الافلاج,Al Aflaj
+139,4,خيطان,Khaitan
+140,1,الوسيعة,Al Wasi'ah
+141,1,تمرية,Tamriyah
+142,1,ابو خسيفاء,Abu Khusayfa
+143,1,النخيل,An Nakhil
+144,1,السحيمي,As Suhaymi
+145,1,مصدة,Musiddah
+146,1,أم سديرة,Umm Sudayrah
+147,1,التنهاة,At Tanhah
+148,1,قري التويم,Qiri At Tuwaym
+149,1,الشحمة,Ash Shahmah
+150,1,الودي,Al Wudayy
+151,1,جوي,Juwayy
+152,1,مقبلة,Muqbilah
+153,1,حرمة,Harmah
+154,7,المعظم,Al Ma'dham
+155,1,جراب,Jirab
+156,1,العقلة,Al Uqlah
+157,1,النغيق,An Nughayq
+158,1,حويمضة,Huwaimidah
+159,1,البتيراء,Al Butaira'
+160,1,المشاش,Al Mishash
+161,1,الفروثي,Al Furuthi
+162,1,جلاجل,Jalajil
+163,1,الدخيلة,Ad Dakhilah
+164,1,الحصون,Al Husun
+165,1,حوطة سدير,Hawtat Sudair
+166,1,روضة سدير,Rawdhat Sudair
+167,1,تمير,Tumair
+168,1,الارطاوية,Al Artawiyah
+169,1,العمار,Al 'amar
+170,1,الخيس,Al Khis
+171,1,المعشبة,Al Ma'ashbah
+172,1,التويم,At Tuwaym
+173,1,الخطامة,Al Khutamah
+174,1,الرويضة,Ar Ruwaydah
+175,1,الشعب,Ash Shi'b
+176,1,عشيرة سدير,Asharat Sudair
+177,1,الجنيفي,Al Junayfi
+178,1,العطار,Al 'attar
+179,1,ام الجماجم,Umm Al Jamajim
+180,1,مشلح,Mishlah
+181,1,ام رجوم,Umm Rujum
+182,1,الرويضة,Ar Ruwaidah
+183,1,الفيصلية,Al Faisaliyah
+184,1,بوضاء,Bawda'
+185,1,الحائر,Al Hair
+186,1,وشي,Wushayy
+187,1,عودة سدير,'awdat Sudayr
+188,1,مبايض,Mubayid
+189,1,القاعية,Al Qa'iyah
+190,3,دبدبة فضلاء,Dibdibbat Fudala
+191,3,الحجب,Al Hajab
+192,3,الضلفة,Adh Dhalfah
+193,3,أبو طاقة,Abu Taqah
+194,3,العين الجديدة,Al 'ayn Al Jadidah
+195,3,القعرة,Al Qi'arah
+196,3,أم زرب,Umm Zarb
+197,3,هدية,Hadiyah
+198,3,القعرة,Al Qa'rah
+199,3,العلا,Al Ula
+200,7,الجهراء,Al Jahara
+201,3,رحيب,Ruhayb
+202,3,شلال,Shalal
+203,3,ضاعا,Da'a
+204,3,جيدة,Jaydah
+205,3,قلبان عشرة,Qulban 'isharah
+206,3,النجيل,An Najil
+207,3,الرزيقية,Ar Ruzayqiyah
+208,3,الحميدية,Al Hamidiyah
+209,3,صدر,Sadr
+210,3,مغيراء,Mughayra'
+211,3,قصيب ابو سيال,Qusayb Abu Siyal
+212,3,ابو اراكة,Abu Arakah
+213,3,مدائن الصالح,Madain As Salih
+214,3,عورش,Awarsh
+215,3,النشيفة,An Nushayfah
+216,3,الزباير,Az Zubayir
+217,3,الضليعة,Ad Dulay'ah
+218,3,متان العريقة,Mitan Al 'urayqah
+219,3,الابرق,Al Abraq
+220,3,اميرة,Amirah
+221,3,الجديدة,Al Jadidah
+222,3,كتيفة مصادر,Kutayfat Masadir
+223,7,الراس,Ar Ras
+224,7,البيت,Al Bayt
+225,7,بئر بحار,Bir Bahar
+226,7,سبحان,Sabhan
+227,5,الظهران,Dhahran
+228,7,أم الريح,Umm Ar Rih
+229,7,حرم,Haram
+230,7,عكوز,'akuz
+231,3,السديد,As Sudayd
+232,7,الحفيرة,Al Hufayrah
+233,7,الوجه,Al Wajh
+234,7,النابع,An Nabi'
+235,7,عنتر,'antar
+236,7,المنجور,Al Manjur
+237,7,ابا القزاز,Aba Al Qizaz
+238,7,بداء,Bada'
+239,7,خرباء,Khurba'
+240,7,الكر,Al Kurr
+241,5,برق الأسيدية,Burq Al Usaydiyah
+242,5,الفاضلي,Al Fadili
+243,5,بقيق,Buqayq
+244,5,قرية,Qurayyah
+245,5,ظلوم,Dhulum
+246,5,عين دار الجديده,New Ain Dar
+247,5,عين دار القديمة,Old Ain Dar
+248,5,علاة,Allat
+249,5,فودة,Fudah
+250,5,الكدادية,Al Kidadiyah
+251,5,يكرب,Yakrub
+252,5,الجابرية,Al Jabiriyah
+253,5,صلاصل,Salasil
+254,5,شهيلاء,Shuhayla'
+255,5,عصيفرات,Usayfirat
+256,6,طريب,Tarib
+257,5,الدغيمية,Ad Dughaymiyah
+258,1,الروضة,Ar Rawdah
+259,1,المنسف,Al Mansaf
+260,1,منسية الغربية,Mansiyah Al Gharbiyah
+261,1,عشيرة,'ushayrah
+262,1,الفيصلية,Al Faysaliyah
+263,1,الثوير,Ath Thuwayr
+264,1,زليغف,Zulayghif
+265,1,مزارع الاثلة,Mazari' Al Athlah
+266,1,مزارع الرحية,Mazari' Ar Ruhayyah
+267,1,قصيباء,Qusayba
+268,1,مزرعة بيضاء نثيل,Mazra'at Bayda Nuthayl
+269,1,امارة المستوي,Imarat Al Mistawi
+270,1,الزلفي,Az Zulfi
+271,1,سمنان,Samnan
+272,1,علقة,'iliqah
+273,3,العين,Al 'ayn
+274,3,المضاويح,Al Mudhawih
+275,3,ابا البقر,Aba Al Baqar
+276,3,الحرضة,Al Hardhah
+277,3,الضرس,Adh Dhars
+278,3,الخريبة,Al Khoraibah
+279,3,العرائد,Al 'araid
+280,3,غمرة,Ghamrah
+281,3,العقيلة,Al 'uqilah
+282,3,العدلة,Al 'adlah
+283,3,الديسة,Ad Disah
+284,3,السليمي,As Sulaymi
+285,3,الجرف,Al Jarf
+286,3,الهذلولي,Al Hadhluli
+287,3,جدعاء,Jad'a
+288,3,خيبر,Khaybar
+289,3,اللحن,Al Lihin
+290,3,العشاش,Al 'ishash
+291,3,الصلصلة,As Silsilah
+292,3,الثمد,Al Thamad
+293,3,العينية,Al Uyaynah
+294,1,رماح,Rumah
+295,1,حفر العتك,Hafr Al Atk
+296,1,المزيرع,Al Muzayri'
+297,1,شوية,Shawyah
+298,1,الحفنة,Al Hifnah
+299,1,الغيلانة,Al Ghaylanah
+300,1,الرمحية,Ar Rumhiyah
+301,5,الراكة,Ar Rakah
+302,7,الخريطة,Al Khuraytah
+303,5,الثقبة,Ath Thuqbah
+304,5,العزيزية,Al 'aziziyah
+305,7,شدوا,Shadwa
+306,1,الغاط,Al Ghat
+307,1,مليح,Mulayh
+308,7,الشبعان,Ash Shaban
+309,7,الدقم,Ad Duqum
+310,7,القرص,Al Qars
+311,7,حراض,Hirad
+312,7,الشبحة,Ash Shibahah
+313,7,روضة الاغيدرات,Rawdat Al Aghaydirat
+314,7,الخضراء الجديدة,Al Khadra Al Jadidah
+315,7,سمور,Samur
+316,7,الرويضات,Al Ruwaydat
+317,7,المهدرة,Al Mahadrah
+318,7,بقيلة,Buqaylah
+319,7,النعيلة,An Nu'aylah
+320,7,الزغلية,Az Zaghliyah
+321,7,توله,Tuwalah
+322,7,العين,Al 'ayn
+323,7,املج,Umluj
+324,7,فم شثاث,Famm Shithath
+325,7,الحرة,Al Harrah
+326,7,العمبجة,Al 'ambijah
+327,7,الشدخ,Ash Shidakh
+328,3,المرامية,Al Maramiyah
+329,1,مزارع البدائع,Mazari' Al Badai'
+330,1,الخاتلة,Al Khatilah
+331,1,البلاد الوسطى,Al Bilad Al Wusta
+332,1,العليا,Al 'ulya
+333,1,الحسيان,Al Hisyan
+334,1,الضلعي,Ad Dul 'ayi
+335,1,تنيبيكة,Tunaibikah
+336,1,عبلة,'abla
+337,1,عبلية,'abliyah
+338,1,هجرة السلات,Hijrat As Silat
+339,1,ام طلحة,Umm Talhah
+340,1,معرج قليشة,Mua'rij Qulaishah
+341,1,داغان,Daghan
+342,1,الجرفية,Al Jurfiyah
+343,1,حشاشة,Hashashah
+344,1,المردمة,Al Mardamah
+345,1,لهدة الصياهد,Lahdat As Sayahid
+346,1,البرزاء,Al Barza
+347,1,الفيضة,Al Faydah
+348,1,الخالدية,Al Khaldiyah
+349,1,الحمادة,Al Hamadah
+350,1,القرارة,Al Qararah
+351,3,الحمنة,Al Hamnah
+352,3,أم الغيران,Umm Al Ghiran
+353,3,المندسة,Al Mundassah
+354,3,السليمية,As Silaymiyah
+355,3,البراقية,Al Barraqiyah
+356,3,السراقي,As Siraqi
+357,3,آبار دحمولة,Abar Dahmulah
+358,3,القويعية,Al Quwayi'yah
+359,3,بدائع الهراسين,Badai' Al Harasin
+360,3,مهد الذهب,Mahd Adh Dhahab
+361,3,صفينة,Sufaynah
+362,3,الرقابية,Ar Riqabiyah
+363,3,الصلحانية,As Sulhaniyah
+364,3,الغاشية,Al Ghashiyah
+365,3,الاصيحر,Al Asayhir
+366,3,السويرقية,As Suwayriqiyah
+367,3,ثرب,Tharb
+368,3,حاذة,Hadhah
+369,3,العمق,Al 'umaq
+370,3,الصعبية,As Sa'biyah
+371,2,القعرة,Al Qa'arah
+372,2,الجحفة,Al Juhfah
+373,3,راين,Rayin
+374,2,الزويراء,Az Zuwayra
+375,2,النويبع,Al Nuwaybi'
+376,2,العقلة,Al 'uqlah
+377,2,رابغ,Rabigh
+378,2,مستورة,Masturah
+379,2,الابواء,Al Abwa'
+380,2,شلوة,Shuluwah
+381,2,كلية,Kilayyah
+382,2,حجر,Hajur
+383,2,صعبر,Sa'bar
+384,2,التنضبية,At Tandabiyah
+385,2,قويزة,Quwayzah
+386,2,النزة,An Nazzah
+387,2,الشعبة,Ash Shu'bah
+388,2,الصدر,As Sadr
+389,2,المغاربة,Al Magharibah
+390,2,الكويسية,Al Kuwaysiyah
+391,2,ابو حليفاء,Abu Hulayfa
+392,2,محجوبة,Mahjubah
+393,1,بئر الفيضة,Bir Al Faydah
+394,1,الهميج,Al Humayj
+395,1,الذيبية,Adh Dhibiyah
+396,1,خضراء,Khadra
+397,1,البدايع,Al Badayi'
+398,1,بطاحة,Battahah
+399,1,الصقرة,As Saqrah
+400,1,وبرة,Wabrah
+401,1,أبو عشرة,Abu 'isharah
+402,1,المعلق,Al Mu'allaq
+403,1,الرميثي,Ar Rumaythi
+404,1,الهرانية,Al Hiraniyah
+405,4,الرضم,Ar Radum
+406,1,الثعل,Ath Tha'al
+407,1,الانسيات,Al Unsiyat
+408,1,فرعة الرميثي,Far'at Ar Rumaythi
+409,1,البطين,Al Butin
+410,1,مشرفة,Mushrifah
+411,1,بديدة,Bidaydah
+412,1,المجهلية,Al Mijhiliyah
+413,1,البحرة,Al Baharah
+414,1,بديعة,Buday'ah
+415,1,الجثوم,Al Juthum
+416,1,الشويطن,Ash Shuwaytin
+417,1,المحامة,Al Mahamah
+418,1,عفيف,Afif
+419,1,ابرقية,Abraqiyah
+420,1,الجمانية,Al Jammaniyah
+421,1,الاشعرية,Al Ashariyah
+422,1,الخضارة,Al Khadarah
+423,1,الصالحية,As Salihiyah
+424,1,بدائع العضيان,Bidai' Al Idyan
+425,1,أم أرطى,Umm Arta
+426,1,المكلاة,Al Maklah
+427,1,عشيران,'ushayran
+428,1,بعيثران,Bu'aythiran
+429,1,أم قصور,Umm Qusur
+430,1,عبدة,'abdah
+431,1,خريصة,Khuraysah
+432,1,عجابة,'ajabah
+433,1,المديفع,Al Mudayfi'
+434,1,القدراوية,Al Qidrawiyah
+435,8,أوبيرة,Ubayrah
+436,1,أم أثلة,Umm Athlah
+437,1,الأخضر,Al Akhdar
+438,1,مطيعة,Muti'ah
+439,1,المدارة,Al Madarah
+440,1,عسيلة,'usaylah
+441,1,الحلوة,Al Hilwah
+442,1,الدبيجة,Ad Dubayjah
+443,1,ثادق,Thadiq
+444,1,الروبضة / رغبة,Ar Rawbidah / Raghabah
+445,1,رويضة السهول,Rawdat As Suhul
+446,1,مشاش السهول,Mishash As Suhul
+447,1,الحسي,Al Hisi
+448,1,الصفرات,As Sufarat
+449,1,البير,Al Bir
+450,1,رويغب,Ruwayghib
+451,3,النجف,An Najf
+452,3,السطيح,As Sutayh
+453,3,الخيمة,Al Khaymah
+454,5,سيهات,Sayhat
+455,3,تفيدة,Tafidah
+456,5,تاروت,Tarut
+457,3,ندياء,Nadya
+458,3,مشرفة,Mishrifah
+459,3,دوينه,Duwayyinah
+460,3,عدن,'adan
+461,3,الأحمر,Al Ahmar
+462,3,المثلث,Al Muthallath
+463,3,الفرع,Al Fara
+464,3,البقاع,Al Biqa'
+465,3,النجيل,An Nujayl
+466,3,البثنة,Al Bathnah
+467,3,خيف حسين,Khayf Husayn
+468,3,البقارية,Al Baqqariyah
+469,3,الفقعلي,Al Fuq'ali
+470,3,المشريف,Al Mushayrif
+471,3,أم المسن,Umm Al Misin
+472,3,البديع,Al Budayyi'
+473,3,الدارة,Ad Darah
+474,3,القري,Al Quray
+475,3,السليم,As Sulaym
+476,3,اللثامة,Al Luthamah
+477,3,المقنع,Al Muqanna'
+478,3,ضفيان,Dufyan
+479,3,عضاد,'adad
+480,3,العدوة,Al 'idwah
+481,3,النباة,An Nabah
+482,3,البريدي,Al Baridi
+483,3,ينبع,Yanbu
+484,3,القراصة,Al Qarrasah
+485,3,العيص,Al 'is
+486,3,الجابرية,Al Jabiriyah
+487,3,ينبع النخل,Yanbu' An Nakhil
+488,3,جراجر,Jarajir
+489,3,ترعة,Tir'ah
+490,3,المربع,Al Murabba'
+491,3,نبط,Nabt
+492,3,السليلة,As Salilah
+493,1,القرائن,Al Qarain
+494,1,الشكيرة,Ash Shukayyrah
+495,1,هجرة المغر,Hijrat Al Mughur
+496,1,مزارع المحتجبة,Mazari' Al Muhtajibah
+497,1,الغرابة,Al Ghurabah
+498,1,القاعية,Al Qa'iyah
+499,1,غسلة,Ghuslah
+500,1,شقراء,Shaqra'
+501,1,الهفوف,Al Hafuf
+502,1,حلوان,Halwan
+503,1,حصرة,Hasarah
+504,1,الثمامية,Ath Thumamiyah
+505,1,لبيدة,Lubaydah
+506,1,العضيانية,Al 'idayyaniyah
+507,1,عجلة,'ajlah
+508,1,سعدة,Sa'dah
+509,1,جفن ضب,Jafn Dabb
+510,1,دلقان,Dalqan
+511,1,أم السباع,Umm As Siba'
+512,1,الجله الأعلى,Al Jilh Al A'la
+513,1,الخفق الجنوبي,Al Khafaq Al Janubi
+514,1,الدحوة,Ad Dihwah
+515,1,الخفق القديم,Al Khafaq Al Qadim
+516,1,الشرمية,Ash Sharmiyah
+517,1,مراغان,Maraghan
+518,1,الفيضة,Al Faydah
+519,1,الجروية,Al Jarwiyah
+520,1,العوشزية,Al 'awshaziyah
+521,1,أبو رجوم,Abu Rijum
+522,1,القلتة,Al Qaltah
+523,1,لعلع,Li'li'
+524,1,الغريري,Al Ghurayri
+525,1,الخنقة,Al Khunqah
+526,1,النسق القديم,An Nasaq Al Qadim
+527,1,وثيلان,Wuthaylan
+528,1,بيضاء نثيل,Bayda Nthayl
+529,1,أم الدباء,Umm Ad Diba
+530,1,الأمار,Al Amar
+531,1,عسيلان,'usaylan
+532,1,السدرية,As Sidriyah
+533,1,أم الشبرم,Umm Ash Shubrum
+534,1,الحجاجي,Al Hijjaji
+535,1,الغبياء,Al Ghubayya
+536,1,الفيضة,Al Faydah
+537,1,أبو حميض,Abu Humayd
+538,1,النبيبيع,An Nubaybi'
+539,1,النباع,An Naba'
+540,1,الملقى,Al Malqa
+541,1,حجيلاء,Hujayla
+542,1,العبد,Al 'abd
+543,1,أم الجثجاث,Umm Al Jithjath
+544,1,أم جفر,Umm Jafr
+545,1,الخلفية,Al Khalfiyah
+546,2,الجدعان,Al Jidh'an
+547,2,زنقاحة,Zinqahah
+548,2,العمشان,Al 'umshan
+549,2,الجذية,Al Judhayyah
+550,2,العقدة,Al 'uqdah
+551,2,القرا,Al Qara
+552,2,الفطيمة,Al Futaymah
+553,2,المحارزة,Al Maharizah
+554,2,الحمة,Al Hamah
+555,2,صيادة,Sayyadah
+556,2,الدفينة,Ad Difinah
+557,2,الوهط,Al Wahat
+558,2,الغنم,Al Ghunnam
+559,2,ابو غيل,Abu Ghayl
+560,2,ام البكار,Umm Al Bikar
+561,2,الفعور,Al Fu'ur
+562,2,الصخيرة,As Sukhayrah
+563,2,السريح,As Sirayh
+564,2,الملعب,Al Mal'ab
+565,2,الغمير,Al Ghimayr
+566,2,الوزير,Al Wazir
+567,2,ثمالة,Thumalah
+568,2,النصبة,An Nusbah
+569,2,عباسة,'abbasah
+570,2,الحفيرة,Al Hifayrah
+571,2,غرابة,Ghirabah
+572,2,الحلقة,Al Halaqah
+573,2,الرخيلة,Ar Rikhaylah
+574,1,القصب,Al Qasab
+575,1,المشاش,Al Mishash
+576,1,الصوح,As Suh
+577,1,اشيقر,Ushayqir
+578,1,ام طليحة,Umm Tulaihah
+579,1,الداهنة,Ad Dahinah
+580,1,الحريق,Al Hurayyiq
+581,1,الجريفة,Al Juraifah
+582,1,الوقف,Al Waqf
+583,1,العلوة,Al 'uluwah
+584,1,فرحة,Farhah
+585,1,عروى,'arawa
+586,1,فردة,Fardah
+587,1,مويسل,Muwaysil
+588,1,الشاة,Ash Shat
+589,1,الفيضة,Al Faydah
+590,1,مشرف,Mushrif
+591,1,بدائع سويقة,Bidai Suwayqah
+592,1,الصلبية,As Sulubiyah
+593,1,مشرفة,Mishrifah
+594,1,مزارع الروضة,Mazari' Ar Rawdah
+595,4,هرمولة,Hurmulah
+596,4,فيضة ابان الاحمر,Faidat Aban Alahmar
+597,4,الدارة,Ad Darah
+598,1,مطربة,Mutribah
+599,1,رغلة,Raghlah
+600,1,مشرفة,Mushrifah
+601,1,ضبة,Dabbah
+602,1,العطاوي,Al 'atawi
+603,1,الحفائر,Al Hafair
+604,1,مزارع طينان,Mazari' Tinan
+605,1,منيفة,Munifah
+606,1,قويعان,Quway'an
+607,1,الحنابج,Al Hanabij
+608,1,الشفلحية,Ash Shifallahiyah
+609,1,روضة وثيلان,Rawdat Wuthaylan
+610,1,ابو ركب,Abu Rukab
+611,1,الخالدية,Al Khalidiyah
+612,1,الحفنة,Al Hifnah
+613,1,أبو عرينة,Abu Uraynah
+614,1,الفرعة,Al Far'ah
+615,1,بحار الجديد,Bihar Al Jadid
+616,1,حميان,Hamayyan
+617,6,الجربوعية,Al Jarboeyyah
+618,1,العقلة,Al 'uqlah
+619,1,نميلين,Numaileen
+620,1,الدهاسية,Ad Dahasiyah
+621,1,المصلوم,Al Maslum
+622,1,سعدة,Sa'adah
+623,1,أم رضمة,Umm Rudmah
+624,1,السنارية,As Sinnariyah
+625,1,الديرية,Ad Dirirah
+626,1,المغزل,Al Mighzal
+627,1,جوباح,Jubah
+628,1,القرنة,Al Qurnah
+629,1,وثيلان,Wuthaylan
+630,1,عين الصوينع,'ayn As Suwayni'
+631,1,الأرطاوي,Al Artawi
+632,1,الثندوة,Ath Thiduwah
+633,1,أبو جلال,Abu Jilal
+634,1,جنوب البرود,Janub Al Burud
+635,1,غرب البرود,Gharb Al Burud
+636,1,الريشية,Ar Rishiyah
+637,1,عبلة,'ablah
+638,1,مزرعة البيضة,Mazra'at Al Bidah
+639,1,السليسية,As Sulaysiyah
+640,1,مزرعة سليسان,Mazra'at Sulaysan
+641,1,العويجاء,Al 'uwayja
+642,1,العدوة,Al 'udwah
+643,1,الجديدة,Al Jadidah
+644,1,بدائع الهمجة,Bada'i Al Hamjah
+645,1,فيضة القوازين,Faydat Al Quwazin
+646,1,مزارع مصيقرة,Mazari' Musayqirat
+647,1,الفيحاء,Al Fayha
+648,1,الدسمة,Ad Dasmah
+649,1,صفاقة,Saffaqah
+650,1,قبيعة,Qubay'ah
+651,1,الشبرمية,Ash Shubrumiyah
+652,1,كويكبة,Kuwaykibah
+653,8,الرعيلة,Al Raeelah
+654,1,أم طليحة,Umm Tulayhah
+655,1,الرقيبة,Ar Raqibah
+656,1,بدع الصعكي,Bid' As Si'aki
+657,1,سلطانة,Sultanah
+658,1,عبلة,'ablah
+659,1,الملينية,Al Milayyiniyah
+660,1,البديعة,Al Bidi'ah
+661,1,روضة جهام,Rawdat Jaham
+662,1,مزارع الجديدة,Mazari' Al Jadidah
+663,1,منيفة المغايرة,Munifat Al Maghayirah
+664,1,الدرعية,Ad Dir'iyah
+665,1,الرميحة,Ar Rumayhah
+666,1,حسو الحيد,Hasu Al Hayd
+667,1,حديجة,Hudayjah
+668,1,الدارة,Ad Darah
+669,1,الدوادمي,Ad Duwadimi
+670,1,الدمثي,Ad Damthi
+671,1,أوضاخ,Udakh
+672,1,كبشان,Kabshan
+673,1,حديجة,Hudayjah
+674,1,القرارة,Al Qararah
+675,1,العوشزية,Al Awshaziyah
+676,1,الجمش,Al Jimsh
+677,1,نجخ,Najkh
+678,1,جريسة,Juraysah
+679,1,ام العثاكل,Umm Al 'athakil
+680,1,عرجاء,Arja'
+681,1,أم سليم,Umm Sulaym
+682,1,ساجر,Sajir
+683,1,الرفيعة,Ar Rafi'ah
+684,1,نفي,Nifi
+685,1,مصدة,Musiddah
+686,1,الخفيفية,Al Khufayfiyah
+687,1,عسيلة,'usaylah
+688,1,أرطاوي الرقاص,Artawi Ar Raqqas
+689,1,عشيران,'ushayran
+690,1,مزرعة الخفيسة,Mazra'at Al Khufaysah
+691,1,عين القنور,'ayn Al Qannur
+692,1,التسرير,At Tasrir
+693,1,الاثلة,Al Athlah
+694,1,عريفيجان,'urayfijan
+695,1,السكران,As Sakran
+696,1,جفن,Jifin
+697,1,البرود,Al Burud
+698,1,جفنا,Jifana
+699,1,الصالحية,As Salhiyah
+700,1,العاذرية,Al 'adhiriyah
+701,1,البجادية,Al Bijadiyah
+702,1,الرفائع,Ar Rafai'
+703,1,جهام ابو عشر,Jaham Abu 'ishar
+704,1,مشرفة,Mushrifah
+705,1,الحزيمية,Al Huzaymiyah
+706,1,خف,Khuff
+707,1,المحمدية,Al Muhammadiyah
+708,1,الحفيرة,Al Hufayyirah
+709,1,ماسل,Masal
+710,1,القاعية,Al Qa'iyah
+711,1,منيفة,Munifah
+712,1,رضوى,Radwa
+713,1,ارطاوي حليت,Artawi Hillit
+714,1,عواضة,'awwadah
+715,1,شرارة,Shararah
+716,1,الحزم,Al Hazim
+717,1,صقرة,Saqrah
+718,1,العقيشية,Al Uqayshiyah
+719,1,القرين,Al Qurayn
+720,1,عقلة الغويري,Uqlat Al Uwayri
+721,1,ام زموع,Umm Zumu'
+722,1,عين البراحة,'ayn Al Barahah
+723,1,مغيراء,Mughayra'
+724,1,الضحوي,Ad Dahawi
+725,1,عسيلة,'usaylah
+726,1,المغيب,Al Maghib
+727,1,فيضة المفص,Faydat Al Mafass
+728,1,عريدة,'urayyidah
+729,1,الشعراء,Ash Sha'ara'
+730,1,العازمية,Al 'azimiyah
+731,1,المحوي,Al Mahawi
+732,1,المدرع,Al Mudarri'
+733,1,سرورة,Sururah
+734,1,عصماء,Asma'
+735,1,ام طليحة,Umm Tulayhah
+736,1,مشرفة,Mushrifah
+737,1,مساوي,Musawi
+738,1,النقعة,An Niq'ah
+739,1,افقرا,Afqirah
+740,1,الرفاع,Ar Rufa'
+741,1,الفقارة,Al Fuqarah
+742,1,الودي,Al Wuday
+743,1,الرفيعة,Ar Rufi'ah
+744,1,الخبة,Al Khubbah
+745,1,النبوان,An Nabuwan
+746,1,الرديفة,Ar Rudifah
+747,1,الرشاوية,Ar Rishawiyah
+748,1,مطربة,Mutribah
+749,1,المستجدة,Al Mustajiddah
+750,1,العامرية,Al Amiriyah
+751,1,الفيضة,Al Faydah
+752,1,الظلماوي,Adh Dhalmawi
+753,1,شبيرمة,Shubayrimah
+754,1,عصام,Isam
+755,1,عبادة,Abbadah
+756,1,الحيد,Al Hayd
+757,1,العبل,Al 'abal
+758,1,ارطاوي الحماميد,Artawi Al Hamamid
+759,1,بدائع ابن نجم,Badai' Ibn Najim
+760,3,المرية,Al Marriyah
+761,3,الشقران,Ash Shuqran
+762,3,الكريزية,Al Kurayziyah
+763,3,ذارة,Dharah
+764,3,قصيباء,Qusayba
+765,3,رحبة علوش,Rahbat 'allush
+766,3,الكريزية,Al Kurayziyah
+767,3,الرفائع,Ar Rafae'
+768,3,صبحا,Sabha
+769,3,حزرة,Hazrah
+770,3,غراب,Ghurab
+771,3,الحجرية,Al Hijriyah
+772,3,أبو مغير,Abu Mughayr
+773,3,العد,Al 'idd
+774,3,الربثة,Ar Rabtah
+775,3,البركة,Al Birkah
+776,3,النفازي,An Nafazi
+777,3,الحناكية,Al Hinakiyah
+778,3,المحفر,Al Mahaffar
+779,3,النخيل,An Nakhyil
+780,3,الصمد,As Samd
+781,3,الضميرية,Ad Dumayriyah
+782,3,المحامة,Al Mahamah
+783,3,الحسو,Al Hisu
+784,3,الهميج,Al Humayj
+785,3,صخيبرة,Sukhaybirah
+786,3,هدبان,Hadban
+787,3,بلغة,Bilghah
+788,3,الماوية,Al Mawiyah
+789,3,قصيرة,Qusayrah
+790,3,العوشزي,Al Awshazi
+791,3,عرجاء,'arja
+792,3,طلال,Talal
+793,1,الحزم,Al Hazm
+794,1,الطوقي,At Tawqi
+795,1,حريملاء,Huraymila
+796,1,ملهم,Malham
+797,1,سدوس,Sudus
+798,1,حزوى,Hizwa
+799,1,دقلة,Diqalah
+800,1,حليفة,Hulayfah
+801,1,صلبوخ,Sulbukh
+802,1,البرة,Al Barrah
+803,1,العويند,Al Uwaynid
+804,1,البويب,Al Buwayb
+805,7,عيينة,'uyaynah
+806,1,إبن غنام,Ibn Ghannam
+807,1,الغنامية,Al Ghanamiyah
+808,1,العماج,Al 'ammaj
+809,1,هيت,Hit
+810,1,الحائر,Al Hair
+811,1,كهف برمة,Kahf Barmah
+812,1,بنبان,Banban
+813,1,الثمامة,Ath Thumamah
+814,1,لبن,Laban
+815,1,العريدية,Al 'uraydiyah
+816,1,العباسية,Al 'abbasiyah
+817,1,أم رضمة,Umm Radmah
+818,1,أم سليم,Umm Sulaym
+819,1,ثرمداء,Tharmada'
+820,1,مرات,Marat
+821,1,أثيثية,Uthaythiyah
+822,1,لبخة,Labkhah
+823,1,روضة الفرس,Rawdat Al Faras
+824,1,ام طلحة,Umm Talhah
+825,1,حويتة,Huwaytah
+826,1,الطويلة,At Tawilah
+827,1,أوبير,Ubayr
+828,1,الدرعية,Ad Dir'iyah
+829,1,عرقة,'irqah
+830,1,العيينة,Al Uyainah
+831,1,الوصيل,Al Wusayl
+832,1,أبا الكباش,Aba Al Kibash
+833,1,الجبيلة,Al Jubaylah
+834,1,العمارية,Al 'ammariyah
+835,1,بوضة,Bawdah
+836,1,العليا,Al 'ulayya
+837,1,قصر القرينة,Qasr Al Quraynah
+838,1,قصر فيهق,Qasr Fayhaq
+839,1,ضرما,Duruma
+840,1,قصور المقبل,Qusur Al Muqbil
+841,1,الغطغط,Al Ghutghut
+842,1,قصر ابن شهيل,Qasr Ibn Shuhayl
+843,1,المغرفية,Al Maghrafiyah
+844,1,جو,Jaww
+845,1,الغزيز,Al Ghuzayz
+846,1,الثمامي,Ath Thumamy
+847,1,وعلة,Wa'alah
+848,1,الشامانية,Ash Shamaniyah
+849,1,القصورية,Al Qusuriyah
+850,1,مزلة,Mazallah
+851,1,عصيلة,'usaylah
+852,1,الشواة,Ash Shawah
+853,1,عليان,'ilayyan
+854,1,عيدان,Idan
+855,1,سيح الدبول,Sayh Ad Dubul
+856,1,الهمجة,Al Hamjah
+857,4,أبو سديرة,Abu Sudairah
+858,1,الكدرة,Al Kadrah
+859,1,الفيضة,Al Faydah
+860,1,الخيس,Al Khis
+861,1,الدويرة,Ad Duwayrah
+862,1,أبو مروة,Abu Marwah
+863,1,سماح,Samah
+864,1,القرنة,Al Qarnah
+865,1,داحس,Dahis
+866,1,دسمان,Dasman
+867,1,العويسية,Al 'uwaysiyah
+868,1,العلياء,Al 'ulayya
+869,1,مزرعة مزعلة,Mazra'at Miz'ilah
+870,1,القوسة,Al Qawsah
+871,1,الروغ,Ar Rawgh
+872,1,الوسيطاء,Al Wusayta
+873,1,البعيثية,Al Bu'aythiyah
+874,1,الشتلانية,Ash Shatlaniyah
+875,1,جدالة,Jaddalah
+876,1,قفرة,Qafarah
+877,1,أجزالا,Ajzala
+878,1,الجفارة,Al Jafarah
+879,1,غودة,Ghawdah
+880,1,القويعية,Al Quway'iyah
+881,1,حلبان,Halaban
+882,1,سنام,Sanam
+883,1,الرجع,Ar Raj'
+884,1,طحي,Tuhayy
+885,1,الرويضة,Ar Ruwaydah
+886,1,الخنيقية,Al Khunayqiyah
+887,1,الناصفة,An Nasifah
+888,1,المثناة,Al Mathnah
+889,1,الجلة,Jellah
+890,1,الربواء,Ar Rabwa
+891,1,لجعة,Laj'ah
+892,1,نخيلان,Nukhaylan
+893,1,عنان,'inan
+894,1,البدع,Al Bad'
+895,1,صبحاء,Sabha
+896,2,القصر,Al Qasr
+897,2,ترعة,Tir'ah
+898,2,ظلم,Dhalam
+899,2,الخفاشة,Al Khafashah
+900,2,براش,Barash
+901,2,الشريف,Ash Sharif
+902,1,الجلة وتبراك,Jellah And Tebrak
+903,2,الفرع,Al Far'
+904,2,حرجل,Harjal
+905,2,هديل,Hidayl
+906,2,ام الحصن,Umm Al Hisn
+907,2,اللحيان,Al Lahyan
+908,2,الاسراب,Al Asrab
+909,2,العثرية,Al Athriyah
+910,4,الوطاة,Al Wutah
+911,4,غضي,Ghudayy
+912,4,الحيطان,Al Hitan
+913,4,الصريف,As Sarif
+914,4,الفايزية,Al Fayziyah
+915,4,الصعيبية,As Su'aybiyah
+916,4,نقرة العمارين,Nuqrat Al 'amarin
+917,4,رغيلة,Rughaylah
+918,4,مزارع الدغمانيات,Mazari' Ad Daghmaniyat
+919,4,مزارع الراشد,Mazari' Ar Rashid
+920,4,العليا,Al 'ulayya
+921,4,الروضة,Ar Rawdah
+922,4,أبلق,Ablaq
+923,4,ضراس,Diras
+924,4,أم مكرية,Umm Makriyah
+925,4,الخناصة,Al Khinnasah
+926,4,مزارع الصقيريات,Mazari' As Suqayriyat
+927,4,رياض الرماح,Riyad Ar Rimah
+928,4,العقلة,Al 'uqlah
+929,4,روض ابن كميان,Rawd Ibn Kumayyan
+930,4,القرو,Al Qaru
+931,4,الحديدية,Al Hadidiyah
+932,4,البعيثة,Al Bi'ithah
+933,4,الصغيرية,As Sughayriyah
+934,4,حويلان,Huwaylan
+935,4,الصباخ,As Subakh
+936,4,اللسيب,Al Lusayb
+937,4,الدعيسة,Ad Da'isah
+938,4,العاقول,Al 'aqul
+939,4,البصر,Al Busur
+940,7,المريشدية,Al Murayshdiyah
+941,4,الطرفية,At Turfiyah
+942,4,القرعاء,Al Qar'a
+943,4,المليداء,Al Mulayda'
+944,4,البطين,Al Butayn
+945,4,محير الترمس,Mihir At Turmus
+946,4,شري,Shari
+947,4,الشقة العليا,Ash Shiqqah Al 'ulya
+948,4,الشقة السفلى,Ash Shiqqah As Suflah
+949,4,الزبيرة,Az Zubayrah
+950,4,قصيباء,Qusayba'
+951,4,القوارة,Al Quwarah
+952,4,الهدية,Al Hudayyah
+953,4,الغماس,Al Ghammas
+954,4,مدرج,Mudarraj
+955,4,قبة,Qibah
+956,1,أم سريحة,Umm Surayhah
+957,1,الخروعية,Al Kharwa'iyah
+958,1,المجذمية,Al Majdhamiyah
+959,1,الحفيرة / حصاة قحطان,Al Hufayyirah / Hasat Qahtan
+960,1,الحرملية,Al Harmaliyah
+961,1,خبراء الثوير,Khabra Ath Thawir
+962,1,الرين,Ar Rayn
+963,1,محيرقة,Muhairiqah
+964,1,مرقان,Marqan
+965,1,ام نخيلة,Umm Nakhilah
+966,1,ام الدبي,Umm Ad Dibay
+967,1,خبراء حلوة,Khabra Halwah
+968,1,حجيلا,Hujaila
+969,1,الفويلق,Al Fuwayliq
+970,1,القويع,Al Quway'
+971,1,مزعل,Miz'il
+972,1,بدائع المشاعلة,Badai' Al Masha'ilah
+973,1,خبراء فاران,Khabra Faran
+974,1,خبيب الريم,Khubayb Ar Rim
+975,1,القرارة,Al Qararah
+976,1,أم طليح,Umm Tulayh
+977,1,المانعية,Al Mani'iyah
+978,1,الجديدة,Al Jadidah
+979,1,العدوة,Al 'idwah
+980,1,الذيبية,Adh Dhibiyah
+981,1,الصدر,As Sadr
+982,1,أبرقية,Abraqiyah
+983,1,حجرفة,Hajrufah
+984,1,معانيق,Ma'aniq
+985,1,الصيهد,As Sayhad
+986,1,اللغفة,Al Laghfah
+987,1,الخفق الجديد,Al Khafaq Al Jadid
+988,1,ظلماء,Dhalma
+989,1,الخلائق الشرقية,Al Khalaiq Ash Sharqiyah
+990,1,المزاحمية,Al Muzahimiyah
+991,1,تبراك,Tebrak
+992,1,الفيضة,Al Faydah
+993,1,الاوسط,Al Awsat
+994,1,الحويرة,Al Huwayrrah
+995,1,خشم معضد,Khashm Mi'dad
+996,1,البخرا,Al Bakhra
+997,1,اللغفية,Al Lughfiyah
+998,1,المسبر,Al Masbar
+999,1,النظيم,An Nadhim
+1000,1,حفرة نساح,Hafirat Nisah
+1001,1,عجاج,'ajaj
+1002,1,المشاعلة,Al Masha'ilah
+1003,1,قنيفذة,Qunayfidhah
+1004,1,عفرية,Ifriyah
+1005,1,الخلائق الغربية,Al Khalaiq Al Gharbiyah
+1006,1,الجفير,Al Jufayr
+1007,3,الأسطح,Al Astah
+1008,3,الرجع,Ar Raj'
+1009,3,دمان,Duman
+1010,3,المفرق,Al Mafraq
+1011,3,الغزلان,Al Ghuzlan
+1012,3,الجديد,Al Jadid
+1013,3,وجمة,Wajmah
+1014,3,عرقوص,Arqus
+1015,3,العنيق,Al 'unayq
+1016,3,مرتجة,Murattijah
+1017,3,الفقرة,Al Faqrah
+1018,3,خلص,Khals
+1019,3,القفاف,Al Qifaf
+1020,3,أم البرك,Umm Al Birak
+1021,3,مريخة,Muraykhah
+1022,3,العبلا,Al 'abla
+1023,3,مرموماء,Marmuma
+1024,3,قرظة,Qurudhah
+1025,3,أم فحي,Umm Fahi
+1026,3,البركة,Al Barkah
+1027,3,الهدى,Al Hada
+1028,3,الغور,Al Ghur
+1029,3,مثعر,Math'ar
+1030,3,الحسينية,Al Husayniyah
+1031,3,الشفية,Ash Shufayyah
+1032,3,السليمية,As Sulaymiyah
+1033,3,أبو قرن,Abu Qarn
+1034,3,المسجد,Al Masjid
+1035,3,اللهبان,Al Lahban
+1036,3,الجوابرة,Al Jawabirat
+1037,3,خرص,Khuruss
+1038,3,عاصر,Asir
+1039,3,الأثود,Al Athud
+1040,3,ترجم,Tarjim
+1041,3,كتيدة,Kitaydah
+1042,3,سفاء,Safa
+1043,3,رحقان,Rahqan
+1044,3,ثعيل,Thu'ayyil
+1045,3,المفرق,Al Mafraq
+1046,3,الميث,Al Mayth
+1047,3,بئر الغنم,Bir Al Ghanam
+1048,3,المرتجة,Al Murtajjah
+1049,3,المعيزلة,Al Ma'ayzilah
+1050,3,الحار,Al Har
+1051,3,الصديرة,As Sudayyirah
+1052,3,دريبس,Diraybis
+1053,3,بدر,Badr
+1054,3,بئر قيضي,Bi'r Qaydi
+1055,3,الواسطة,Al Wasithah
+1056,3,الرايس,Ar Rayis
+1057,3,المسيجيد,Al Musayjid
+1058,1,العين,Al 'ayn
+1059,1,خفس دغرة,Khafs Daghrah
+1060,1,البياض,Al Biyad
+1061,1,الخرج,Al Kharj
+1062,1,اليمامة,Al Yamamah
+1063,1,الرفاع,Ar Rufa'
+1064,1,البرة,Al Barrah
+1065,1,فرزان,Farzan
+1066,1,الرفيعه,Ar Rafi'ah
+1067,1,الرفائع,Ar Rufai'
+1068,1,العذار,Al 'adhar
+1069,1,زميقة,Zumayqah
+1070,1,الحزم,Al Hazim
+1071,1,الهياثم,Al Hayathim
+1072,1,البدع القديم,Al Bada' Al Qadim
+1073,1,الدلم,Ad Dilam
+1074,1,الضبعية,Ad Dubay'ah
+1075,1,نعجان,Na'jan
+1076,1,حي القطار,Hai Al Qitar
+1077,1,الناصفة,An Nasifah
+1078,1,السلمية,As Silimiyah
+1079,1,البدع,Al Bada'
+1080,1,السهباء,As Sahba'
+1081,1,الثليما,Ath Thalima
+1082,1,التوضيحية,At Tawdihiyyah
+1083,1,المحطة,Al Mahattah
+1084,1,الرغيب,Ar Rughayb
+1085,1,المحمدي,Al Muhammadi
+1086,1,الصحنة,As Sahanah
+1087,3,الجريسية,Al Juraysiyah
+1088,3,الغمر,Al Ghamr
+1089,3,المزرع,Al Mazri'
+1090,3,هبا,Haba
+1091,3,الصحن,As Sahan
+1092,3,مشوقة,Mashuqah
+1093,3,أم العراد,Umm Al 'arad
+1094,3,الهرارة,Al Harrarah
+1095,3,السدرة,As Sidrah
+1096,3,الجصة,Al Jissa
+1097,3,الحويمضة,Al Huwaymidah
+1098,3,قران,Qaran
+1099,3,الخفيق,Al Khufayq
+1100,3,الهميجة,Al Humayjah
+1101,3,الصالحية,As Salhiyah
+1102,3,مريغان,Murayghan
+1103,3,العشاي,Al 'ashshay
+1104,2,القعر الاسفل,Al Qa'ar Al Asfal
+1105,2,خليص,Khulays
+1106,2,الحدباء,Al Hadba
+1107,2,الرهوة,Ar Rahawah
+1108,2,القوز,Al Qawz
+1109,2,الخنفسة,Al Khunfusah
+1110,2,حشاش,Hishash
+1111,2,الضبية,Ad Dubayyah
+1112,2,البريكة,Al Buraykah
+1113,2,الفز,Al Fazz
+1114,2,الطينة,At Tinah
+1115,2,ام الجرم,Umm Al Jurm
+1116,2,الدوارة,Ad Duwwarah
+1117,2,ابو مراغة,Abu Maraghah
+1118,2,الحفياء,Al Hafya
+1119,2,الخيف,Al Khayf
+1120,2,المكسر,Al Maksir
+1121,2,الفيج,Al Fij
+1122,2,السهم,Al Saham
+1123,2,الدف,Ad Daff
+1124,2,المشريفة,Al Musharifah
+1125,2,الوقب,Al Waqib
+1126,2,الحلقة,Al Halqah
+1127,2,جليل,Julayyil
+1128,2,حلمة,Hilimah
+1129,2,الجضع,Al Jid'
+1130,2,البيار,Al Biyar
+1131,2,المعالي,Al Ma'ali
+1132,2,المديد,Al Madid
+1133,2,المريصيع,Al Maraysi'
+1134,2,جليلة,Jilayyilah
+1135,2,المسماة,Al Masammah
+1136,2,الحصينية,Al Hasayniyah
+1137,2,الغروف,Al Ghuruf
+1138,2,البحول,Al Bahawal
+1139,2,دوقة,Dawqah
+1140,2,البخترية,Al Bakhtariyah
+1141,2,البرزة,Al Barzah
+1142,2,السليم,As Silaym
+1143,2,مهايع,Al Mahaya'
+1144,2,المعداء,Al Ma'ada
+1145,2,ام العرمط,Umm Al 'urmut
+1146,2,المليحة,Al Milayhah
+1147,2,الدحلة,Ad Dahalah
+1148,2,الصليلات,As Salaylat
+1149,2,غصين,Ghusayyin
+1150,2,الكامل,Al Kamil
+1151,2,العيبة العليا,Al 'aybah Al 'ulya
+1152,5,الطليعة,Al Taleah
+1153,2,القعور,Al Qu'ur
+1154,2,الغريب,Al Gharayyib
+1155,2,مشرق,Mishriq
+1156,2,اللصب,Al Lusub
+1157,2,العقلة,Al 'uqlah
+1158,2,العمودة,Al 'amudah
+1159,2,الوقبة,Al Waqbah
+1160,2,الفارع,Al Fari'
+1161,2,الخديد,Al Khidayd
+1162,2,المغاوي,Al Maghawi
+1163,2,المقفي,Al Maqfa
+1164,2,الحطامية,Al Hatamiyah
+1165,2,كدوة الأعوج,Kidwat Al 'awaj
+1166,2,هشيمة,Hishaymah
+1167,2,خبت مزقة,Khabt Mizqah
+1168,2,السبت,As Sabt
+1169,2,النيلة,An Nilah
+1170,2,القرن,Al Qarn
+1171,2,الحليفة,Al Hulayfah
+1172,2,المسيليم,Al Musaylim
+1173,2,القرى,Al Qara
+1174,6,جمعة ربيعة,Jum'at At Rabiah
+1175,2,الفالق,Al Faliq
+1176,2,خميس حرب,Khamis Harb
+1177,2,الجرد,Al Jard
+1178,2,الركح,Ar Rakh
+1179,2,السبطة,As Sabatah
+1180,2,الثلوث,Ath Thuluth
+1181,2,الشصرة,Ash Shasarah
+1182,2,عمرات,'amrat
+1183,2,عاجة,'ajah
+1184,2,العقدة,Al 'uqdah
+1185,2,الخمجان,Al Khumjan
+1186,2,الكدنة,Al Kadanah
+1187,2,شينانة,Shaynanah
+1188,2,الجلمة,Al Jilamah
+1189,2,الصرح,As Sarh
+1190,2,الصعيب,As Sa'ayb
+1191,2,القرية,Al Qarayyah
+1192,2,المضحاة,Al Madhah
+1193,2,النهيمية,An Nihaymiyah
+1194,2,الغريف,Al Gharif
+1195,2,الشرع,Ash Shar'
+1196,2,الدغمية,Ad Dughmiyah
+1197,2,أم راكة,Umm Rakah
+1198,2,الدبيلة,Ad Dubayyilah
+1199,2,جبار,Jabbar
+1200,2,الحجف,Al Hijif
+1201,2,أبو جميدة,Abu Jumaydah
+1202,2,غثاة,Ghithah
+1203,2,الضحياء,Ad Dahya
+1204,4,الطراق,At Tiraq
+1205,8,الخريمي,Al Khuraymi
+1206,8,مزارع الدوية,Mazari' Ad Dawayyah
+1207,8,القرفاء,Al Qarfa
+1208,6,الطويفح,Al Tuwaifah
+1209,8,مبرز,Mubaraz
+1210,8,السليل,As Silayyil
+1211,8,سبيعة,Sibi'ah
+1212,8,الرشاوية,Ar Rishawiyah
+1213,8,الميركة,Al Mirakah
+1214,8,الشلالة,Ash Shallalah
+1215,8,أم العماير,Umm Al 'amayir
+1216,8,مزارع تخاييل,Mazari Takhayil
+1217,8,بدائع إبضة,Badai' Ibdah
+1218,8,الحورا,Al Hawra
+1219,8,قرية البطين,Qaryah Al Butain
+1220,8,إبضة,Ibdah
+1221,8,ثرال,Thiral
+1222,8,زيخين,Zikhin
+1223,8,الخيط,Al Khayt
+1224,8,الصلبية,As Sulubiyah
+1225,8,المعازل,Al Ma'azil
+1226,8,المضابيع,Al Madabi'
+1227,8,الساقية,As Saqiyah
+1228,8,الشنان,Ash Shinan
+1229,8,العدوة,Al 'idwah
+1230,8,السعيرة,As Si'ayyirah
+1231,8,رك,Rakk
+1232,8,الفويلق / الرشاوية,Al Fuwaileq / Ar Rishawiyah
+1233,8,الابيتر,Al Ubaitir
+1234,8,الكهيفية,Al Kihayfiyah
+1235,8,العظيم,Al 'udhaim
+1236,2,المقيصر,Al Muqaysir
+1237,2,الوطاة,Al Watah
+1238,2,الزرب,Az Zirb
+1239,2,اللويات,Al Luwayyat
+1240,2,الأريقط,Al Urayqit
+1241,2,المعيزيلة,Al Mu'azilah
+1242,2,الشرفية,Ash Shurufiyah
+1243,2,البريكة,Al Buraykah
+1244,2,الظليم,Ad Dhalim
+1245,2,الحنو,Al Hinu
+1246,2,الجعيرة,Al Ju'ayrah
+1247,2,الحزم,Al Hazm
+1248,2,الخرمة,Al Khurmah
+1249,2,الغريف,Al Gharif
+1250,2,شبيرم,Shubayrim
+1251,2,مطية,Mityah
+1252,2,دف زيني,Daff Zayni
+1253,2,النويدرة,An Nuwaydirah
+1254,2,الصمد,As Samad
+1255,2,المرشدية,Al Murshidiyah
+1256,2,الدوح الكبير,Ad Dawh Al Kabir
+1257,2,الجموم,Al Jumum
+1258,2,ابو عروة,Abu 'urwah
+1259,2,البرابير,Al Brabir
+1260,2,قرن السرور,Qarn As Surur
+1261,2,الحميمة,Al Hamimah
+1262,2,حرة الجبل,Harat Al Jabal
+1263,2,سمد الحميمة,Samd Al Humaymah
+1264,2,النزهة,An Nuzhah
+1265,6,الشعبة,Ash Shu'bah
+1266,6,القذال,Al Qadhal
+1267,6,شواحط,Shawahit
+1268,6,عدمن,'adaman
+1269,6,المنيظر,Al Munaydhir
+1270,6,محبة,Mahabbah
+1271,6,الفصيلة,Al Fasilah
+1272,6,المسلمة,Al Maslamah
+1273,6,الخوش,Al Khawsh
+1274,6,الكنبي,Al Kanabi
+1275,6,القيوار,Al Qiwar
+1276,6,القنعات,Al Qana'at
+1277,6,الميفاء,Al Mifa
+1278,6,صعابان,Sa'aban
+1279,6,مكهاف,Makhaf
+1280,6,المنظر,Al Mandhar
+1281,6,أم فرع,Umm Fura'
+1282,6,القريحة,Al Qurayhah
+1283,6,الفرعة,Al Far'ah
+1284,6,أم شعبين,Umm Sh'bayn
+1285,2,مشرف,Mishrif
+1286,6,قزة,Quzzah
+1287,6,سيالة,Sayalah
+1288,6,الأحسر,Al Ahsar
+1289,6,الفاضية,Al Fadiyah
+1290,6,نعص,Na's
+1291,6,الضحي,Ad Dahi
+1292,6,الحيد عبس,Al Hayd 'abs
+1293,6,الطرقة,At Taraqah
+1294,6,المجاردة,Al Majardah
+1295,6,الحمة,Al Himah
+1296,6,العقيقة,Al Aqiqah
+1297,6,بارق,Bariq
+1298,6,الهرير الشرقي - الجازي,Al Hurayr Ash Sharqi (Al Jazi)
+1299,6,طيب الإسم,Tayyib Al Ism
+1300,6,العمارة,Al 'ammarah
+1301,6,بيشة,Bishah
+1302,6,المزارقة,Al Mazarqah
+1303,6,آل غيثان,Al Ghaythan
+1304,6,آل الشريفي,Al Ash Shirayfi
+1305,6,آل التوم,Al At Tum
+1306,6,آل سويد,Al Suwayd
+1307,6,الصمدة,As Simidah
+1308,6,الفيض,Al Fayd
+1309,6,آل مريح,Al Mirayyih
+1310,6,صفوان,Safwan
+1311,6,الرونة,Ar Runah
+1312,6,آل الذيب,Al Adh Dhib
+1313,6,روضان,Rawdan
+1314,4,مطربه,Mutrabah
+1315,2,حداء,Hada'
+1316,2,المقايث,Al Maqayth
+1317,2,القرينة / هداة الشام,Al Qurainah / Hadat Ash Sham
+1318,2,القعضبة,Al Qi'dubah
+1319,2,الزلال,Az Zallal
+1320,2,الرويغة,Ar Ruwayghag
+1321,2,العصب,Al 'asb
+1322,2,القعرة,Al Qa'arah
+1323,2,المعلاة,Al Ma'lah
+1324,2,الجرف,Al Jarf
+1325,2,الجيشي,Al Jayshi
+1326,2,الزريب,Az Zurayb
+1327,2,البناية,Al Binayah
+1328,2,فيدة,Faydah
+1329,2,الشامية,Ash Shamiyah
+1330,2,المقيطيع,Al Muqayti'
+1331,2,المقايتة,Al Maqaytah
+1332,2,المقر,Al Miqarr
+1333,2,ابو حصانية,Abu Hasaniyah
+1334,2,النوارية,An Nawariyah
+1335,2,الخيف,Al Khayf
+1336,2,الضرس,Ad Dirs
+1337,2,القرية,Al Qurayyah
+1338,2,مشجي,Mushaji
+1339,2,الخلاصة,Al Khulasah
+1340,2,القاحة,Al Qahah
+1341,2,القاع,Al Qa'
+1342,2,عسفان,'isfan
+1343,2,المجمعة,Al Majma'ah
+1344,2,مدركة,Madrakah
+1345,2,عين شمس,'ayn Shams
+1346,2,الريان,Ar Rayyan
+1347,1,جرير,Jarir
+1348,1,الفائزية,Al Faiziyah
+1349,1,المصارير,Al Masarir
+1350,1,النويعمة,An Nuway'mah
+1351,1,وادي الدواسر,Wadi Ad Dawasir
+1352,1,ابرق النعام,Abraq An Na 'am
+1353,1,كمدة,Kamdah
+1354,1,الفاو,Al Faw
+1355,1,حرجة الزفر,Hirjat Az Zufur
+1356,1,حجلة السواد,Hajlat As Suwad
+1357,1,الكواكب,Al Kawakib
+1358,1,الدلعبي,Ad Dhala'aby
+1359,1,بني لبيب,Bani Labib
+1360,1,خشم البازوم,Khashm Al Bazum
+1361,1,السليل,As Sulayyil
+1362,1,خيران,Khayran
+1363,1,تمرة,Tamrah
+1364,1,حمام,Himam
+1365,1,ريدا,Rayda
+1366,2,الوسقة,Al Wasqah
+1367,2,المدرج,Al Midrij
+1368,12,الحدبة,Al Hadabah
+1369,2,الخصرة,Al Khasirah
+1370,2,عوية,'uwayyah
+1371,2,المشاش,Al Mishash
+1372,6,روام,Rwam
+1373,2,الحصاحص,Al Hasahis
+1374,2,المدير,Al Mudir
+1375,2,ذي رهجان,Dhi Rahjan
+1376,2,اللغيسيم,Al Lughaysim
+1377,2,الوقرين,Al Waqrayn
+1378,2,الصواملة,As Suwamilah
+1379,2,الصدية,As Sadiyah
+1380,2,سوق الجمعة,Suq Al Jum'ah
+1381,12,مسعدة,Masa'dah
+1382,12,ظهي,Dhaha
+1383,2,سلم الزواهرة,Salam Az Zuwahirah
+1384,2,أم الشوك,Umm Ash Shawk
+1385,12,الحريقة,Al Hariqah
+1386,2,الحبقة,Al Habqah
+1387,12,كرش,Karsh
+1388,2,مفتاح,Miftah
+1389,2,الكردم,Al Kurdum
+1390,2,الليث,Al Lith
+1391,2,الجائزة,Al Jaizah
+1392,2,قاعس,Qa'is
+1393,2,المضحاة,Al Madhah
+1394,2,الميثاء,Al Maytha
+1395,2,الغرات,Al Ghurrat
+1396,2,صلعة,Sala'ah
+1397,2,ضبيعة,Dubay'ah
+1398,2,الشعبة,Ash Shu'bah
+1399,2,الحلي,Al Hulay
+1400,12,القري,Al Qari
+1401,2,الرنيفة,Ar Runayfah
+1402,2,سوق اللصفة,Suq Al Lusafah
+1403,2,عيون حارة,'uyun Harrah
+1404,2,السوحة,As Siwahah
+1405,2,ربوع العين,Rubu Al Ayn
+1406,2,المجيرمة,Al Mijayrimah
+1407,2,السعدية,As Sa'diyah
+1408,2,سوق ذرى,Suq Dhara
+1409,2,سوق ترعا,Suq Tara'a
+1410,2,الرفغ,Ar Rafugh
+1411,2,قرضة,Qaradah
+1412,2,البرد,Al Barid
+1413,2,سوق بني يزيد,Suq Bani Yazid
+1414,2,حقال,Haqal
+1415,2,الساعي,As Sa'i
+1416,2,ذنباء,Dhanaba
+1417,2,المقسبة,Al Maqsabah
+1418,2,شراقب,Sharaqib
+1419,2,شيباي,Shaybay
+1420,2,قفيلان,Qufaylan
+1421,2,الصالف,As Salif
+1422,2,صبح,Sabah
+1423,2,الغالة,Al Ghallah
+1424,2,غميقة,Ghumayqah
+1425,12,الحجرة,Al Hajrah
+1426,2,لملم,Lamlam
+1427,12,الجرين,Al Jarin
+1428,2,الشاقة / الصهوة,Al Shaqqah (As Shwah)
+1429,6,السفح,As Safah
+1430,6,حزم مفتاح,Hazm Miftah
+1431,6,جاش,Jash
+1432,6,روضة جاش,Rudat Jash
+1433,6,الحرفين,Al Harfayn
+1434,6,لاعس,La'is
+1435,6,مريغان,Murayghan
+1436,6,الدريب,Ad Dirayb
+1437,6,الجازع,Al Jazi'
+1438,6,الفاخرية,Al Fakhriyah
+1439,6,كتنة,Kutnah
+1440,6,الجزيرة,Al Jazirah
+1441,6,الحنيك,Al Hanek
+1442,6,مريخة,Muraykhah
+1443,6,تثليث,Tathlith
+1444,6,ال سويدان,Al Suwaydan
+1445,6,ال عيفان,Al Ayfan
+1446,6,ال خميسة,Al Khumaysah
+1447,6,القيرة,Al Qirah
+1448,6,الحمضة,Al Hamdah
+1449,6,الزرق,Az Zurq
+1450,6,حبية,Habiyah
+1451,6,رغوان,Rughwan
+1452,6,العين,Al 'ayn
+1453,6,الامواه,Al Amwah
+1454,6,الصبيخة,As Subaykhah
+1455,12,الإشتاء,Al Ishta
+1456,12,المكاتيم,Al Makatim
+1457,12,الحكمان,Al Hukman
+1458,12,الكلبة,Al Kalibah
+1459,12,الثراوين,Ath Tharawin
+1460,12,قريش الحسن,Quraysh Al Hasan
+1461,12,الضبيعات,Ad Dubay'at
+1462,12,وادي بطحان,Wadi Bathan
+1463,12,الكرادسة,Al Karadisah
+1464,12,سبيحة العليا,Sabihah Al 'ulya
+1465,12,القرى,Al Qara
+1466,12,الاطاولة,Al Atawlah
+1467,12,بيدة,Baydah
+1468,12,القسمة,Al Qisamah
+1469,12,نخال,Nikhal
+1470,6,الخليج,Al Khalij
+1471,6,الصبيحي,As Sabihi
+1472,6,المدراء,Al Madra
+1473,6,الباقرة,Al Baqirah
+1474,6,نمران,Namran
+1475,6,شديق,Shudayq
+1476,6,الحرف,Al Harf
+1477,6,العطف,Al 'atf
+1478,6,الدحو,Ad Dihu
+1479,6,الحريرة,Al Hurayrah
+1480,6,الشقيقة,Ash Shaqiqah
+1481,6,النقيع,An Naqi'
+1482,6,الرفائع,Ar Rafai'
+1483,6,الجنينة,Al Junaynah
+1484,6,عيدان,Idan
+1485,6,أم الفروغ,Umm Al Furugh
+1486,6,عقيلية,'aqiliyah
+1487,6,بينة,Baynah
+1488,6,عرمان,'arman
+1489,6,القديحي,Al Qadihy
+1490,6,واعر,Wa'ir
+1491,6,الشط,Ash Shatt
+1492,6,المروة,Al Marwah
+1493,6,المهامل,Al Mahamil
+1494,6,المجمعة,Al Majma'ah
+1495,6,الحيفة,Al Hifah
+1496,6,مهر,Muhr
+1497,6,البهيم,Al Bahim
+1498,6,الغفرات,Al Ghafrat
+1499,6,المعدن,Al Ma'din
+1500,6,القوز,Al Quz
+1501,6,بادية,Badiyah
+1502,6,القاع,Al Qa'
+1503,6,كتنة,Kutnah
+1504,6,مجحم,Mujahhim
+1505,6,الحجون,Al Hajun
+1506,6,صمخ,Samakh
+1507,6,الحفيرة,Al Hufayrah
+1508,6,الثنية,Ath Thiniyah
+1509,6,القوزية,Al Qawziyah
+1510,6,القوباء,Al Qawba
+1511,6,قطبة,Qutbah
+1512,6,دفرخرشان,Dafir Kharshan
+1513,6,جلال,Jallal
+1514,6,بيشة,Bishah
+1515,6,الديلمي,Ad Dailami
+1516,6,الرقيطاء,Ar Ruqaita'
+1517,6,تبالة,Tabalah
+1518,6,الحازمي,Al Hazmi
+1519,6,الخضراء,Al Khadra
+1520,12,الهضبة,Al Hadabah
+1521,12,الأبناء,Al Abna
+1522,12,بني جرة,Bani Jarrah
+1523,12,آل مرزوق,Al Marzuq
+1524,12,آل حميد,Al Himayd
+1525,12,جبر,Jabr
+1526,12,حوالة,Hawalah
+1527,12,الأزاهرة,Al Azahirah
+1528,12,دارالسوق,Dar As Suq
+1529,12,بني كبير,Bani Kabir
+1530,12,الحمران,Al Humran
+1531,12,بلجرشي,Biljurashi
+1532,8,مزارع اولاد مرزوق‎,Mazarie 'awlad Marzuq
+1533,12,بالشهم,Bal Shaham
+1534,12,بادية بني كبير,Badiyat Bani Kabir
+1535,12,بلعلاء,Bal'ala
+1536,12,العفوص,Al 'ufus
+1537,12,خيرة,Khirah
+1538,12,قرن ظبي,Qarn Dhabi
+1539,12,شبرقة,Shibriqah
+1540,12,الغشامرة,Al Ghashamrah
+1541,12,العباس,Al 'abbas
+1542,12,الباحة,Al Baha
+1543,12,رغدان,Raghdan
+1544,12,الظفير,Adh Dhafir
+1545,12,بني حسن,Bani Hasan
+1546,12,بيضان,Baydan
+1547,12,الصغرة,As Saghrah
+1548,12,بني ظبيان,Bani Dhabyan
+1549,6,الشقيق,Ash Shaqiq
+1550,6,البظاظة,Al Badhdhadhah
+1551,6,الحرجة,Al Harajah
+1552,6,آل يزيد,Al Yazid
+1553,6,القعرة,Al Qa'rah
+1554,6,الفرع,Al Far'
+1555,6,البلس,Al Balas
+1556,6,العظة,Al 'idhah
+1557,6,الصرف,As Suruf
+1558,6,ثما,Thamma
+1559,6,العاسرة,Al 'asirah
+1560,6,حجاب,Hijab
+1561,6,الحصنة,Al Husanah
+1562,6,آل الزارية,Al Az Zariyah
+1563,6,الحصباء,Al Hasba
+1564,6,آل سلمة,Al Salamah
+1565,6,ال الشيخ,Al Ash Shaykh
+1566,6,البشائر,Al Bashair
+1567,2,القاع,Al Qa'
+1568,2,أبو علي,Abu 'ali
+1569,2,العمودية,Al 'amudiyah
+1570,6,قرن بن ساهر,Qarn Bin Sahir
+1571,2,ثلوث عمارة,Thuluth 'imarah
+1572,2,حرف مبرة,Harf Mibrah
+1573,2,الفايجة,Al Fayijah
+1574,2,الحمضة,Al Hamadah
+1575,2,ناخسة,Nakhusah
+1576,2,نمرة,Numarah
+1577,2,القزعة,Al Qaza'ah
+1578,2,الصحنة,As Sahnah
+1579,2,المعقص,Al Mu'aqas
+1580,2,المروة,Al Marwah
+1581,2,الصفي,As Sufay
+1582,2,الشغز,Ash Shaghaz
+1583,2,القضب,Al Qadab
+1584,2,العجالين,Al 'ajalin
+1585,2,الشعب,Ash Shi'b
+1586,2,الصلب,As Sulb
+1587,2,الفريق,Al Fariq
+1588,2,السلامة,As Salamah
+1589,2,الصهوة,As Sahwah
+1590,2,عنيكر,'unaykir
+1591,2,الكدسة,Al Kidsah
+1592,2,عجلان,Ajlan
+1593,2,القحمان,Al Quhman
+1594,2,العرجاء,Al 'arja
+1595,2,البريم,Al Buraym
+1596,2,الفرشة,Al Farshah
+1597,2,الزعاترة,Az Za'atirah
+1598,2,العماير,Al 'amayir
+1599,2,السمرة,As Samrah
+1600,2,شعب سامر,Sha'ib Samir
+1601,2,السادة,As Sadah
+1602,2,القحب,Al Qahb
+1603,2,بلاقة,Ballaqah
+1604,2,زبيد,Zubayd
+1605,2,مخشوش,Makhshush
+1606,2,العينة,Al 'aynah
+1607,2,خبت السبت,Khabt As Sabt
+1608,2,الفاهمة,Al Fahimah
+1609,2,ثريبان,Thurayban
+1610,2,المبنى,Al Mabna
+1611,6,القاع,Al Qa'
+1612,2,الحذيفة,Al Hudhayfah
+1613,2,ناخس,Nakhis
+1614,2,الزبيري,Az Zubayri
+1615,2,غراب,Ghurab
+1616,2,السر,As Sirr
+1617,6,آل عامر,Al 'amir
+1618,2,النبيعة,An Nubay'ah
+1619,2,الحرش,Al Harsh
+1620,2,الحدباء,Al Hadba
+1621,2,الصدرة,As Sudarah
+1622,6,الهدارة,Al Haddarah
+1623,2,الشرى,Ash Shara
+1624,2,الأنفة,Al Anafah
+1625,2,القنفذة,Al Qunfidhah
+1626,6,بلقرن,Balqarn
+1627,6,سبت العلاية,Sabt Al 'alayah
+1628,2,القوز,Al Qawz
+1629,2,كياد,Kiyad
+1630,2,الصفة,As Suffah
+1631,2,المظيلف,Al Mudhaylif
+1632,2,الحبيل,Al Habil
+1633,2,صبياء,Sabya'
+1634,6,باشوت,Bashut
+1635,2,معشوقة,Ma'shuqah
+1636,2,دوقة,Dawqah
+1637,2,سبت شمران,Sabt Shumran
+1638,2,احد بني زيد,Ahd Bani Zayd
+1639,2,سبت الجارة,Sabt Al Jarah
+1640,6,قدرين,Qudrayn
+1641,6,آل سفيان,Al Sufyan
+1642,6,البدلة,Al Badlah
+1643,6,مملح,Mamlah
+1644,6,آل جودة,Al Jawdah
+1645,6,بني زهير,Bani Zuhayr
+1646,6,الحدباء,Al Hadba
+1647,6,آل إثيبة,Al Ithibah
+1648,6,تلاء,Tala
+1649,6,القيسة,Al Qaysah
+1650,6,آل فارس,Al Faris
+1651,6,الذفراء,Adh Dhafra
+1652,6,بطحة,Bathah
+1653,6,بني قيس,Bani Qays
+1654,6,القضوى,Al Qadwa
+1655,6,الحميطة,Al Humayyitah
+1656,6,الرشداء,Ar Rashda
+1657,6,لبوة,Labwah
+1658,6,آل حضينان,Al Hidaynan
+1659,6,المجرا,Al Mujra
+1660,6,الخرب,Al Kharb
+1661,6,آل صقر,Al Saqr
+1662,6,جليلة,Jilayyiah
+1663,6,طعمة,Ti'mah
+1664,6,المعاملة,Al Mu'amalah
+1665,6,الحيمة,Al Haymah
+1666,6,البطنة,Al Batnah
+1667,6,بيش,Bish
+1668,6,الحيفة,Al Hifah
+1669,6,الطريف الأعلى,At Turayf Al A'la
+1670,6,المضة,Al Maddah
+1671,6,عرقة,'irqah
+1672,6,ثفرة,Thafrah
+1673,6,فرعة قواء,Far'at Quwa
+1674,6,البرقاء,Al Barqa
+1675,6,فرسان,Farasan
+1676,6,لسس,Lasas
+1677,6,القوز,Al Qawz
+1678,6,الصفا الملبد,As Safa Al Mulabad
+1679,6,الثعيلبة,Ath Thu'aylibah
+1680,6,الطلحة,At Talhah
+1681,6,بادية,Badiyah
+1682,6,العين,Al 'ayn
+1683,6,البغث,Al Baghath
+1684,6,المريفق,Al Murayfiq
+1685,6,الحرفين,Al Harfayn
+1686,6,القضة,Al Qaddah
+1687,6,الحامض,Al Hamid
+1688,6,الطلاح,At Tilah
+1689,6,واسط,Wasit
+1690,6,خشم شاع,Khashm Sha'
+1691,6,الخضاير,Al Khadayir
+1692,6,مشحذ,Mashhidh
+1693,6,بريم السليل,Buraym As Silil
+1694,6,البردان,Al Burdan
+1695,6,رغوة,Righwah
+1696,6,آل سعيد,Al Sa'id
+1697,6,الغول,Al Ghawl
+1698,6,آل الهايلة,Al Al Hayilah
+1699,6,آل جرمان,Al Jarman
+1700,6,عرقة,'irqah
+1701,6,الحواويش,Al Hawawish
+1702,6,المري,Al Marri
+1703,6,آل شويل,Al Shuwayl
+1704,6,كدمان,Kidman
+1705,6,الصفية,As Sufayyah
+1706,6,إبن نجم,Ibn Nijam
+1707,6,المثناة,Al Mathnah
+1708,5,هدباء,Hadba'
+1709,6,وادي ابن هشبل,Wadi Ibn Hashbal
+1710,6,ال بي ثور,Al Bi Thawr
+1711,6,السلع,As Sila
+1712,6,المضة,Al Maddah
+1713,6,الروضة,Ar Rawdah
+1714,6,خيبر الجنوب,Khaybar Al Janub
+1715,6,الحثدة,Al Hithadah
+1716,6,الباعق,Al Ba'iq
+1717,6,العرض,Al 'ard
+1718,6,أم ضحي,Umm Dahi
+1719,6,آل ثوبان,Al Thawban
+1720,6,الحيلة,Al Haylah
+1721,6,مراتخ,Muratikh
+1722,6,أم ظهور الرفود,Umm Dhuhur Ar Rafud
+1723,6,مجزوعة,Majzu'ah
+1724,6,القرونة,Al Qurunah
+1725,6,الريع,Ar Ri'
+1726,6,قنيفد,Qinayfid
+1727,6,المربع,Al Murabba'
+1728,6,الفاهمة,Al Fahmah
+1729,6,آل محصن,Al Muhsun
+1730,6,النصب,An Nusub
+1731,6,المسلم,Al Muslim
+1732,6,الريش,Ar Raysh
+1733,6,الحاجب,Al Hajib
+1734,6,آل علين,Al 'illin
+1735,6,الحضن,Al Hudn
+1736,6,العين,Al 'ayn
+1737,6,المكثر,Al Mukaththir
+1738,6,البارك,Al Barik
+1739,6,المغمر,Al Maghmar
+1740,6,العيدة,Al 'idah
+1741,6,الحجف,Al Hajf
+1742,6,المقاعد,Al Maqa'id
+1743,6,شعب دريب,Shi'b Durayb
+1744,6,الكديد,Al Kadid
+1745,6,السحر,As Sahar
+1746,6,إبن عبيدي,Ibn 'abidi
+1747,6,الجبهة,Al Jabhah
+1748,6,الحرة,Al Harrah
+1749,6,معصم,Ma'sam
+1750,6,الحدبات,Al Hadabat
+1751,6,المعشور,Al Ma'shur
+1752,6,المسلمة,Al Maslamah
+1753,6,بين الجبلين,Bayn Al Jablayn
+1754,6,الحشف,Al Hashaf
+1755,6,ريمان,Rayman
+1756,6,الخليف,Al Khalif
+1757,6,الراحة,Ar Rahah
+1758,6,العفارة,Al 'afarah
+1759,6,البجيلي,Al Bajili
+1760,6,العقل,Al 'aql
+1761,6,المجمعة,Al Majma'ah
+1762,6,سيال,Sayyal
+1763,6,آل معلوي,Al Ma'lawi
+1764,6,الخطيم,Al Khutaym
+1765,6,الفي,Al Fayy
+1766,6,الجردان,Al Jardan
+1767,6,خارف,Kharif
+1768,6,الشرف,Ash Sharaf
+1769,6,سارة,Sarah
+1770,6,سقامة,Siqamah
+1771,6,الخبارة,Al Khabarah
+1772,2,غديقة,Ghudayqah
+1773,2,الخرجة,Al Kharjah
+1774,2,الدبانية,Ad Dubaniyah
+1775,2,الصبخة,As Sabkhah
+1776,2,صعبة,Sa'bah
+1777,2,صور بن شكوان,Sur Bin Shakwan
+1778,2,الخشاشة,Al Khashashah
+1779,2,العوصاء,Al 'awsa
+1780,2,الخشة,Al Khushshah
+1781,2,لغب,Laghab
+1782,2,الرحى,Ar Raha
+1783,2,حريزة,Harizah
+1784,2,الخضراء,Al Khadra
+1785,2,الحورة,Al Hawrah
+1786,2,رضوان,Radwan
+1787,6,حبث,Habath
+1788,6,آل ناهية,Al Nahiyah
+1789,6,آل الذيب,Al Adh Dhib
+1790,6,فتاح,Futah
+1791,6,مسلت,Maslat
+1792,6,آل شدادي,Al Shaddadi
+1793,6,آل عاصمي,Al 'asimi
+1794,6,ذي حصيمو,Dhi Husaymu
+1795,6,وسانب,Wusanib
+1796,6,الزهراء,Az Zaha
+1797,6,المسقوي,Al Masqawi
+1798,6,هدة,Hidah
+1799,6,الغال,Al Ghal
+1800,6,خميس مطير,Khamis Mutair
+1801,6,محايل,Muhayil
+1802,6,قنا البحر,Qana & Al Bahr
+1803,6,خميس البحر,Khamis Al Bahr
+1804,6,قشيعة,Qushay'ah
+1805,6,دالج,Dalaj
+1806,6,شط إبن جازعة,Shatt Ibn Jazi'ah
+1807,6,منقش,Manqash
+1808,6,الدماغ,Ad Dimagh
+1809,6,ثلوث ريم,Thuluth Rim
+1810,6,الحضن,Al Hadan
+1811,6,الضاجع,Ad Daji'
+1812,6,الرصعة,Ar Ras'ah
+1813,6,سنومة,Sanumah
+1814,6,الجرف,Al Jarf
+1815,6,السرو,As Sarw
+1816,6,العشة,Al 'ashshah
+1817,6,آل مجم,Al Majam
+1818,6,الحصون,Al Husun
+1819,6,القارية,Al Qariyah
+1820,6,الذروة,Adh Dhurwah
+1821,6,الشعبين,Ash Shi'bayn
+1822,6,آل عيسى,Al 'isa
+1823,6,مرجومة,Marjumah
+1824,6,بيغ,Bayyagh
+1825,6,الجزوة,Al Jazwah
+1826,6,فقوة,Faqwah
+1827,6,آل متعالي,Al Mut'ali
+1828,6,دبلاء,Dabla
+1829,6,القرن,Al Qurun
+1830,6,كلمة,Kalmah
+1831,6,آل مصم,Al Masam
+1832,6,يسراة,Yasrah
+1833,6,الأثل,Al Athl
+1834,6,لصناي,Lasnay
+1835,6,عكية,'ukyah
+1836,6,القرار,Al Qarar
+1837,6,الجرف,Al Jarf
+1838,6,فيشان,Fayshan
+1839,6,العين,Al 'ayn
+1840,6,الراحة,Ar Rahah
+1841,6,اللصبة,Al Lasbah
+1842,6,جو جيبة,Jaww Jibah
+1843,6,لهد,Luhud
+1844,6,الهدانة,Al Hadanah
+1845,6,أبو ذراع,Abu Dhira'
+1846,6,رجال المع,Rijal Al Ma'
+1847,6,السودة,As Sudah
+1848,6,الحريضة,Al Huraydah
+1849,6,الخطوة,Al Khutwah
+1850,6,الحبيل,Al Habil
+1851,6,آل قفيع,Al Qifay'
+1852,6,المضيق,Al Madiq
+1853,6,آل لغر,Al Laghir
+1854,6,الهضبة,Al Hadabah
+1855,6,آل دلهم,Al Dalham
+1856,6,عنقرة,'unqarah
+1857,6,آل لوط,Al Lut
+1858,6,آل مكر,Al Makir
+1859,6,آل عرق,Al 'irq
+1860,6,سرايم,Sarayim
+1861,6,لزمة,Lazmah
+1862,6,الدرب,Ad Darb
+1863,6,بني تميم,Bani Tamim
+1864,6,القرحاء,Al Qarha
+1865,6,آل عمرة,Al 'amrah
+1866,6,آل الداحس,Al Ad Dahis
+1867,6,آل زهير,Al Zuhayr
+1868,6,عراب,'irab
+1869,6,آل مشهور,Al Mashhur
+1870,6,آل عامر,Al 'amir
+1871,6,آل حديلة,Al Hidaylah
+1872,6,آل حلامي,Al Hilami
+1873,6,صفحان,Safhan
+1874,5,سامودة,Samudah
+1875,2,الغبة,Al Ghubbah
+1876,2,المحاميد,Al Mahamid
+1877,2,مسنى الازيار,Masna Al 'azyar
+1878,2,الحذيفة القالة,Al Hudhayfat Al Qalah
+1879,2,ثول,Thuwal
+1880,2,ام السلم,Umm As Salam
+1881,3,غضن علياء,Ghadn Aliya
+1882,2,بحرة المجاهدين,Bahrah Al Mujahidin
+1883,2,بحرة القديمة,Bahrah Al Qadimah
+1884,2,حداء الجديدة,Hada' Al Jadidah
+1885,2,ذهبان,Dhahban
+1886,2,الغولاء,Al Ghawla
+1887,2,العوجانية,Al 'awjaniyah
+1888,2,الصفحة,As Safhah
+1889,2,القضيمة,Al Qadimah
+1890,2,ميناء القضيمة,Al Qadimah Port
+1891,2,المواليد,Al Mawalid
+1892,2,دغماء,Daghma
+1893,2,الحفيرة,Al Hufayyirah
+1894,2,الحفيرة,Al Hufayyirah
+1895,12,القهب,Al Qahab
+1896,2,الجحصة,Al Jahasah
+1897,12,الدقم,Ad Duqum
+1898,2,الشهومة,Ash Shuhumah
+1899,2,عوية,'uwayyah
+1900,12,سيحان,Sayhan
+1901,12,الحوية,Al Hawiyah
+1902,2,خميس,Humays
+1903,12,الشعبة,Ash Sha'bah
+1904,2,الاحلاف,Al Ahlaf
+1905,2,المويه القديم,Al Muwayh Al Qadim
+1906,2,البحرة,Al Baharah
+1907,2,البادرية,Al Badiriyah
+1908,2,الحفيرة,Al Hufayyirah
+1909,2,الذويب,Adh Dhuwayb
+1910,2,مروان,Marwan
+1911,2,القرارة,Al Qararah
+1912,2,أم الدوم,Umm Ad Dawm
+1913,2,دغيبجة,Dughaybjah
+1914,2,الرميدة,Ar Rumaydah
+1915,2,خد الحاج,Khadd Al Haj
+1916,2,شويحط,Shuwayhit
+1917,2,وطيلح,Witaylih
+1918,7,العنبة,Al 'anabah
+1919,2,الخضر,Al Khudr
+1920,2,الودية,Al Wudiyah
+1921,2,الصالحية,As Salhiyah
+1922,2,المحاني,Al Mahani
+1923,2,الدار البيضاء,Ad Dar Al Bayda
+1924,2,النمور,An Namur
+1925,2,المبيرز,Al Mubayriz
+1926,2,ملح,Malah
+1927,2,الغديرين,Al Ghadirayn
+1928,7,الهامة,Al Hamah
+1929,7,بئر ابو العجاج,Bir Abu Al 'ajjaj
+1930,7,بئر السادي,Bir As Sadi
+1931,7,قلعة الاذنم,Qal'at Al Adhnum
+1932,7,سلوى,Salwa
+1933,7,وادي ابو طينة,Wadi Abu Tinah
+1934,7,الصورة,As Surah
+1935,7,تريم,Tiraym
+1936,7,بئر فحيمان,Bir Fhayman
+1937,7,قاصرة,Qasrah
+1938,7,هداج,Haddaj
+1939,7,الحواويط,Al Hawawit
+1940,7,جبة,Jubbah
+1941,7,المهارش,Al Mharish
+1942,7,ضوجي,Duji
+1943,7,المرير,Al Murayr
+1944,7,شواق,Shuwaq
+1945,7,آمدان,Amdan
+1946,7,رواقا,Ruwaqa
+1947,7,ضبا,Duba
+1948,7,الخريبة,Al Khuraybah
+1949,7,صر,Surr
+1950,7,صدر,Sadr
+1951,7,نابع داما,Nabi' Dama
+1952,7,قبقاب,Qabqab
+1953,7,شرماء,Sharma
+1954,7,شغب,Shaghab
+1955,7,المويلح,Al Muwaylih
+1956,7,الديسة,Ad Disah
+1957,4,السالمية,As Salmiyah
+1958,4,المريديسية,Al Muraydisiyah
+1959,4,الصفراء,As Safra
+1960,4,خب روضان,Khabb Rawdan
+1961,4,المنتزة,Al Muntazah
+1962,4,مشرفة,Mushrifah
+1963,8,فيد,Fayd
+1964,8,طابة,Tabah
+1965,8,الكهفة,Al Kahafah
+1966,8,عقلة بن داني,Uqlat Ibn Dani
+1967,8,عقلة اللبن,Uqlat Al Laban
+1968,8,الصفراء,As Safra'
+1969,8,البير,Al Bir
+1970,8,عقلة ابن كليب,'uqlat Ibn Kulayb
+1971,8,عريجاء,Uraija'
+1972,8,المطرفية,Al Matrafiyah
+1973,8,المضيح,Al Mudayyih
+1974,8,غمرة,Ghamrah
+1975,8,النعي,An Ni'ayy
+1976,8,الجحفة,Al Juhfah
+1977,8,العش,Al 'ishsh
+1978,8,السبعان,As Sab'an
+1979,4,قصر العبد الله,Qasr Al 'abdallah
+1980,4,مزارع الحفيرات,Mazari' Al Hufayrat
+1981,4,الشنانة,Ash Shananah
+1982,4,السمراء,As Samra
+1983,4,العطشان,Al 'atshan
+1984,4,السيق,As Siq
+1985,4,القعرة,Al Qa'arah
+1986,4,الاسياح,Al Asyah
+1987,4,التنومة,At Tannumah
+1988,4,البرود,Al Burud
+1989,4,خصيبة,Khusayyibah
+1990,4,طريف الاسياح,Turayf Al Asyah
+1991,4,البندرية,Al Bandariyah
+1992,4,حنيظل,Hunaydhil
+1993,4,الجعلة,Al Ja'alah
+1994,4,ابا الورود,Aba Al Wurood
+1995,4,ضيدة,Didah
+1996,4,النمرية,An Nimriyah
+1997,4,المطيوي الشمالي,Al Mutaywi Ash Shamali
+1998,4,المحلاني,Al Mahalani
+1999,4,عيون الجواء,Uyun Al Jawa'
+2000,4,أوثال,Uthal
+2001,4,غاف الجواء,Ghaf Al Jiwa
+2002,4,روض الجواء,Rawd Al Jiwa
+2003,5,الشهارين,Ash Shaharin
+2005,5,أم العراد,Umm Al 'irad
+2006,5,العبيلة,Al 'ubaylah
+2007,5,شبيطة,Shubaytah
+2008,5,شوالة,Shawwalah
+2009,5,مركز الشيبة,Markaz Ash Shaybah
+2010,5,مركز الخيران,Markaz Al Khiran
+2011,5,هجرة الطويلة,Hijrat At Tawilah
+2012,5,عجائب,Ajaib
+2013,5,الطربيل,At Tarbil
+2014,5,التهيمية,At Tuhaymiyah
+2015,5,المقدام,Al Miqdam
+2016,5,السبايرة,As Sabayirah
+2017,5,السباط,As Sabat
+2018,5,الجرن,Al Jarn
+2019,5,برقاء  الركبان,Barqa Al Rukban
+2021,7,عمرات,'amrat
+2022,5,بطحاء,Batha
+2023,5,العديد,Al 'adid
+2024,5,عردة,'ardah
+2025,5,ذعبلوتن,Dha'blutin
+2026,5,الجديدة,Al Jadidah
+2027,5,نعلة شدقم,Na'lat Shadqam
+2028,5,الخويس,Al Khuways
+2029,5,شدقم,Shadqam
+2030,5,ابرقية,Abraqiyah
+2031,5,الحفاير,Al Hafayer
+2032,5,ابن سرحان,Ibn Sirhan
+2033,5,المرضف,Al Muraddaf
+2034,5,الحوية,Al Hawiyah
+2035,5,العضيلية,Al Udayliyah
+2037,5,حرض,Harad
+2038,5,العيون,Al Uyun
+2039,2,الحائط,Al Hait
+2040,2,الفرعة,Al Far'ah
+2041,2,غزال,Ghazal
+2042,2,السلامة,As Salamah
+2044,2,المويه الجديد,Al Muwayh Al Jadid
+2045,2,عبال,'abal
+2046,2,الجعلان,Al Ji'lan
+2047,2,حلباء,Halaba
+2048,2,حداد,Haddad
+2049,2,السيل الصغير,As Sayl As Saghir
+2050,2,ريحة,Rayhah
+2051,2,العرفاء,Al 'arfa
+2052,2,الرحبة,Ar Rahbah
+2053,2,القهيب,Al Quhayb
+2054,2,القران,Al Qaran
+2055,2,الحوية,Al Hawiyah
+2056,2,السيل الكبير,As Sayl Al Kabir
+2057,2,السوارفية,As Sawarqiyah
+2058,2,عشيرة الجديدة,'ushayrah Al Jadidah
+2059,2,العطيف,Al 'atif
+2060,2,القرشيات,Al Qurrashiyat
+2061,2,عشيرة,'ashayrah
+2062,2,السايلة,As Sayilah
+2063,2,الفراع,Al Fira'
+2064,2,النجمة,An Najmah
+2065,2,العصمان,Al 'usman
+2066,2,العاصد,Al 'asid
+2067,2,اليعاسيب,Al Ya'asib
+2068,2,الشبان,Ash Shubban
+2069,2,العنع,Al Qana'
+2070,2,الطوال,At Tuwal
+2071,2,الفارعة,Al Fari'ah
+2072,2,المريفق,Al Murayfiq
+2073,2,السد,As Sadd
+2074,2,مشرق,Mashriq
+2075,2,البورة,Al Burah
+2076,2,الشرى,Ash Shara
+2077,2,ريشان,Rishan
+2078,2,المثان,Mithan
+2079,2,المناضح,Al Manadih
+2080,2,العمار,Al 'umar
+2081,2,المجرد,Al Majrad
+2082,2,آل عطى,Al 'ata
+2083,2,السلاقا,As Salaqa
+2084,2,الدار الحمراء,Al Dar Al Hamra
+2085,2,مران,Marran
+2086,2,الحفيرة,Al Hufayyirah
+2087,2,شقصان,Shaqasan
+2088,2,مظللة,Mudallilah
+2089,2,ام النخلة,Umm An Nakhlah
+2090,2,الذيابات,Adh Dhiyabat
+2091,2,غزايل,Ghazayil
+2092,2,قيا,Qiya
+2093,2,بوا,Buwa
+2094,2,عشيرة مكتن,'ishayra Maktan
+2095,2,الحفائر,Al Hafair
+2096,2,رمحة,Rumhah
+2097,2,السلمة,As Salamah
+2098,2,حضن,Hadan
+2099,2,بئر عن,Bir 'inn
+2100,2,الثابتية,Ath Thabitiyah
+2101,2,جليل,Jalil
+2102,2,صلبة,Sulubah
+2103,2,الاخاضر,Al Akhadir
+2104,2,الخرائق,Al Kharaiq
+2105,2,كلاخ,Kulakh
+2106,2,زبيدة,Zubaidah
+2107,2,زعفران,Za'faran
+2108,2,مرفوض,Marfud
+2109,2,القضيفة,Al Qudaifah
+2110,2,بسل,Bisil
+2111,2,السديرة,As Sudayrah
+2112,2,المعقر,Al Ma'qir
+2113,2,الطفلان,At Tuflan
+2114,2,الصفاة,As Sufah
+2115,2,الحلقة,Al Halqah
+2116,2,الجدير,Al Jadir
+2117,2,الخليف,Al Khulayyif
+2118,2,الحوطة,Al Hawtah
+2119,2,جويرة,Juwairah
+2120,2,الطفيحاء,At Tufayha
+2121,2,جوش,Jush
+2122,2,القحوم,Al Qahum
+2123,2,الغريب,Al Gharib
+2124,2,الحمراء,Al Hamra
+2125,2,القصر,Al Qasr
+2126,2,اللبة,Al Libbah
+2127,2,القريع,Al Qari'
+2128,2,الشعاعيب,Ash Sha'a'ib
+2129,2,ميسان,Maysan
+2130,2,قها,Qaha
+2131,12,برحرح,Barahrah
+2132,2,الصور,As Sur
+2133,2,ابو راكة,Abu Rakah
+2134,2,الفريع,Al Furay'
+2135,2,الوطاة,Al Watah
+2136,2,القويعية,Al Quway'iyah
+2137,2,إبن غنام,Ibn Ghannam
+2138,2,ذواد,Dhawwad
+2139,2,المبرك,Al Mabrak
+2140,2,العلاوة,Al 'ilawah
+2141,2,الحائرية,Al Hairiyah
+2142,2,دعيمر,Du'aymir
+2143,2,وساعد,Wusa'ad
+2144,2,المدرة,Al Midarah
+2145,2,الديرة,Ad Dayyirah
+2146,2,الخالدية,Al Khalidiyah
+2147,2,الغرابة,Al Ghirabah
+2148,2,العلبة,Al 'ilabah
+2149,2,العابسية,Al 'abisiyah
+2150,2,العرقين,Al 'irqayn
+2151,2,الغرمول,Al Gharmul
+2152,2,العصلة,Al 'isalah
+2153,2,زلاقة,Zallaqah
+2154,2,الحشفة,Al Hashafah
+2155,2,ابو مظلة,Abu Madhallah
+2156,2,تربه,Turbah
+2157,2,الحشرج,Al Hashraj
+2158,2,شعر,Shi'r
+2159,5,الربيعية,Ar Rabi'iyah
+2160,7,بئر ابن رشدان,Bir Ibn Rashdan
+2161,5,القديح,Al Qudayh
+2162,5,الخويلدية,Al Khuwildiyah
+2163,5,الدريدي,Ad Duraidy
+2164,5,الخترشية,Al Khatrashiyah
+2165,5,ابو معن,Abu Ma'an
+2166,5,ام الساهك,Umm As Sahik
+2167,5,صفوى,Safwa
+2168,5,حزم ام الساهك,Hazam Umm As Sahik
+2169,3,الفرش,Al Farsh
+2170,5,الجش,Al Jish
+2171,5,عنك,'inak
+2172,5,حلة محيش,Hilat Muhish
+2173,5,التوبي,At Tubi
+2174,5,الملاحة,Al Milahah
+2175,3,العصيلي,Al 'usayli
+2176,5,دارين,Darin
+2177,5,العوامية,Al 'awwamiyah
+2178,5,النابية,An Nabiyah
+2179,5,الزور,Az Zawr
+2180,5,الفريع,Al Furay'
+2182,2,شرائع المجاهدين,Sharai' Al Mujahidin
+2183,2,التنعيم,At Tan'im
+2184,7,الشرف,Ash Sharaf
+2185,2,الشرائع,Ash Sharai'
+2186,2,الريجة,Ar Rayjah
+2187,2,قابل عيفان,Qabil 'ifan
+2188,2,بني عمير,Bani Umayr
+2189,2,البجيدي,Al Bijaydi
+2190,2,قرى الصدر,Qura As Sadr
+2191,2,المضيق,Al Madiq
+2192,2,المجاريش,Al Majarish
+2193,2,الحسن,Al Hasan
+2194,2,الشدقاء,Ash Shadqa
+2195,2,الريقة,Ar Riqah
+2196,2,الزيمة,Az Zaymah
+2197,2,الشميسي,Ash Shumaysi
+2198,2,ام حبيتر,Umm Hubaytir
+2199,2,الصرف,As Sarf
+2200,2,شداد,Shadad
+2201,2,ام الزلة,Umm Al Zillah
+2202,2,بني دعد,Bani Da'ad
+2203,2,ام الراكة,Umm Ar Rakah
+2204,2,الشعيبة,Ash Sha'ibah
+2205,2,الدحيلة,Ad Duhaylah
+2206,2,الروضة,Ar Rawdah
+2207,2,جعرانة,Ju'ranah
+2208,9,طريف,Turaif
+2209,9,الجراني,Al Jirani
+2210,13,الحماد,Al Hamad
+2211,9,نعيج,Nu'ayj
+2212,9,قاع الحنو,Qa' Al Hinu
+2213,9,عرعر,Ar'ar
+2214,9,مركز الصحن,Markaz As Sahan
+2215,9,العويقلية,Al Uwayqilah
+2216,9,أبا الرواث,Aba Ar Rawath
+2217,9,الكاسب,Al Kasib
+2218,9,أم خنصر,Umm Khunsur
+2219,9,حزم الجلاميد,Hazm Al Jalamid
+2220,9,الدويد,Ad Duwayd
+2221,9,جديدة عرعر,Jadidat 'ar'ar
+2222,13,كاف,Kaf
+2223,13,القرقر,Al Qarqar
+2224,13,إثرة,Ithrah
+2225,13,غطي,Ghutayy
+2226,13,القريات,Al Qurayyat
+2227,13,عين الحواسي,'ayn Al Hawasi
+2228,13,قليب خضر,Qulayyib Khudr
+2229,13,العيساوية,Al Isawiyah
+2230,13,الحديثة,Al Hadithah
+2231,13,الناصفة,An Nasifah
+2232,13,الشقيق,Ash Saqayq
+2233,7,الحوي,Al Hawi
+2234,13,صوير,Suwayr
+2235,13,حدرج,Hidrij
+2236,13,ام طليحة,Umm Tulayhah
+2237,13,سكاكا,Sakaka
+2238,13,اللقايط,Al Laqayit
+2239,13,صبيحة,Subayhah
+2240,13,طبرجل,Tubarjal
+2241,13,الفياض,Al Fiyad
+2242,13,قارا,Qara
+2243,13,الثنية,Ath Thaniyah
+2244,13,ام نخيلة,Umm Nukhaylah
+2245,13,المرير,Al Murayr
+2246,13,زلوم,Zallum
+2247,13,النبك ابو قصر,An Nabk Abu Qasr
+2248,13,طلعة عمار,Tal'at 'ammar
+2249,13,عذفاء,'adhfa
+2250,13,خوعاء,Khaw'a'
+2251,13,الشويحطية,Ash Shuwayhitiyah
+2252,9,مركز أم الحيران,Markaz Umm Al Hiran
+2253,5,مركز سماح الجديد,Markaz Samah Al Jadid
+2254,5,مركز الظهرة,Markaz Adh Dhahrah
+2255,9,إبن سوقي,Ibn Suqi
+2256,9,رفحاء,Rafha'
+2257,9,نصاب,Nisab
+2258,5,سماح,Samah
+2259,9,لوقة,Lawqah
+2260,9,ام رضمة,Umm Rudmah
+2261,5,ابن لغيصم,Ibn Lughaisim
+2262,9,روضة هباس,Rawdat Habbas
+2263,9,التمياط,Timiat
+2264,9,إبن شريم,Ibn Shuraym
+2265,9,الشعبة,Ash Shu'abah
+2266,9,لينة,Linah
+2267,9,المركوز,Al Markuz
+2268,13,دومة الجندل,Dawmat Al Jandal
+2269,13,ميقوع,Mayqu'
+2270,13,الأضارع,Al Adari'
+2271,13,صفان,Safan
+2272,13,الرديفة,Ar Radifah
+2273,13,ابو عجرم,Abu 'ajram
+2274,13,الطوير,At Tuwayr
+2275,8,صديان,Sadyan
+2276,8,الوسيطاء,Al Wasayta
+2277,8,البير,Al Bir
+2278,8,البويطن,Al Buwaytin
+2279,8,بدائع العش,Badai' Al 'ishsh
+2280,8,صحي,Sahayy
+2281,8,الوبيرية,Al Wubayriyah
+2282,8,قصيريات,Qusayriyat
+2283,8,سعيدان,Su'aydan
+2284,8,جفيفاء,Jufayfa
+2285,8,الغمياء,Al Ghamya
+2286,8,الفرحانية,Al Farhaniyah
+2287,8,المليح,Al Mulayh
+2288,8,حفيرة الشقيق,Hafirat Ash Shaqayq
+2289,8,جرمة,Jurumah
+2290,8,السفن,As Sufun
+2291,8,منيفة القاعد,Munifat Al Qa'id
+2292,8,القاعد,Al Qa'id
+2293,8,الطوال,At Tuwal
+2294,8,الشعفة,Ash Sha'afah
+2295,8,الجلف,Al Jilf
+2296,8,الهرير,Al Hurayr
+2297,8,طوية,Tuwayyah
+2298,8,البدع,Al Bid'
+2299,8,الجديدة,Al Judayyidah
+2300,8,الرويع,Ar Ruway'
+2301,8,العضدي,Al 'iddi
+2302,8,المرمى,Al Marma
+2303,8,المندسة الشرقية,Al Mindassah Ash Sharqiyah
+2304,8,التيم,At Tim
+2305,8,القليبين,Al Qulaybayn
+2306,8,رينبة,Raynibah
+2307,8,المكظم,Al Mukadhum
+2308,8,الحميراء,Al Humayra
+2309,8,الغار,Al Ghar
+2310,8,المعيقلات,Al Mu'ayqilat
+2311,8,المويكر,Al Muwaykir
+2312,8,المكظم,Al Makdham
+2313,8,الدارة,Al Darah
+2314,8,الشبيكة,Ash Shubaykah
+2315,8,المبعوثة,Al Mab'uthah
+2316,8,الجفر,Al Jafur
+2317,8,المعترضة,Al Mu'taridah
+2318,8,اللقيطه,Al Liqitah
+2319,8,منشار,Minshar
+2320,8,سهلة بدنة,Sahlat Badanah
+2321,8,بدائع مريفق,Badai' Murayfiq
+2322,8,السليل,As Sulayyil
+2323,8,الصليعاء,As Sulay'a
+2324,8,الصبيحية,As Subayhiyah
+2325,8,الأثلة,Al Athlah
+2326,8,حويان,Huwayyan
+2327,8,المبيدع,Al Mubaydi'
+2328,8,المبدع,Al Mabda'
+2329,7,كلوة,Kilwah
+2331,8,العمائر,Al 'amair
+2332,8,الشملي,Ash Shamli
+2333,8,المسلسل,Al Musalsal
+2334,8,سبطر,Sibutar
+2336,8,غرمول العويد,Ghurmul Al Uwayd
+2337,8,الحامرية,Al Hamiriyah
+2338,8,الخبة,Al Khabbah
+2339,8,الحطي,Al Hati
+2340,8,الصنينا,As Sunayna'
+2341,8,دليهان,Dulayhan
+2342,8,الشقيق,Ash Shuqayq
+2343,8,ابا الحيران,Aba Al Hiran
+2344,8,قليب الاطرم,Qalib Al Atram
+2345,8,بيضاء نثيل,Bayda' Nathil
+2346,8,قناء,Qina'
+2347,8,المشيطية,Al Mushaytiyah
+2348,8,التربية,At Turbiyah
+2349,8,الخطة,Al Khuttah
+2350,8,جبه,Jubbah
+2351,8,موقق,Mawqaq
+2352,8,عقلة بن جبرين,Uqlat Bin Jabrin
+2353,8,ام القلبان,Umm Al Qulban
+2354,8,مزارع السحل,Mazari' As Sihhal
+2355,8,مزارع الرغلية,Mazari Ar Righliyah
+2356,8,الطليحة,At Tulayhah
+2357,8,مزارع الصفيا,Mazari' As Safya
+2358,8,البدائع,Al Badai'
+2359,8,الهمجة,Al Hamjah
+2360,8,المهينية,Al Mihayniyah
+2361,8,الجابرية,Al Jabriyah
+2362,8,الوعيلي,Al Wu'ayli
+2363,8,مزارع الرخيصية,Mazari' Ar Rikhaysiyah
+2364,8,مزارع بيط,Mazari' Bayt
+2365,8,الجثياثة,Al Jithyathah
+2366,8,القصعاء,Al Qas'a
+2367,8,اللويبدة,Al Luwaybidah
+2368,8,الجثامية,Al Jithamiyyah
+2369,8,السويفلة,As Suwayfilah
+2370,8,بقعاء,Baq'a
+2371,8,الاجفر,Al Ajfar
+2372,8,تربه,Turubah
+2373,8,ضبيعة,Dubay'ah
+2374,8,الشيحية,Ash Shihiyah
+2375,8,الشعيبة,Ash Shu'aybah
+2376,8,بقعاء الشرقية,Baq'a' Ash Sharqiyah
+2377,8,الثنيان,Ath Thinayyan
+2378,8,الجديدة,Al Jadidah
+2379,8,الشعلانية,Ash Sha'laniyah
+2380,8,طلحاء,Talha'
+2381,7,العمود,Al 'amud
+2382,7,الحميرة,Al Humayrah
+2383,7,الغال,Al Ghal
+2384,7,عينونة,'aynunah
+2385,7,الحشا,Al Hasha
+2386,7,عينونة,'aynunah
+2387,7,بئر عودة,Bir 'audah
+2388,7,الجدة,Al Jiddah
+2389,4,مطربة,Mutribah
+2390,4,الطرفية الغربية,At Turfiyah Al Gharbiyah
+2391,4,البديعة,Al Bidayyi'ah
+2392,4,عريفجان ساحوق,'urayfjan Sahuq
+2393,4,الصليبي,As Sulaybi
+2394,4,الزهيرية,Az Zihayriyah
+2395,4,روضة قرادان,Rawdat Qiradan
+2396,4,أبانات,Abanat
+2397,4,الحنينية,Al Hinayniyah
+2398,4,خضراء,Khadra
+2399,4,ضليع رشيد,Dulay' Rashid
+2400,4,الخطيم,Al Khutaym
+2401,4,عطا,'ata
+2402,4,عطي,'utayy
+2403,4,الهمجة,Al Hamjah
+2404,4,رفائع اللهيب,Rufai' Al Luhayb
+2405,4,الجرذاوية,Al Jardhawiyah
+2406,4,الركنة,Ar Ruknah
+2407,4,البتراء,Al Batra'
+2408,4,العقلة,Al 'uqlah
+2409,4,الحوطة,Al Hawtah
+2410,4,العبيل,Al 'ubayl
+2411,4,الوسيطاء,Al Wusayta
+2412,4,نفجة,Nafjah
+2413,4,الغيدانية,Al Ghaydaniyah
+2414,4,العبلة,Al 'abla
+2415,4,مزارع الجراوة,Mazari' Al Jirawah
+2416,4,السميراء,As Sumayra
+2417,4,الرضيمة,Al Rudaymah
+2418,4,القوعي,Al Qaw'i
+2419,4,مزارع العقل,Mazari' Al 'aql
+2420,4,دخنة,Dukhnah
+2421,4,الرس,Ar Rass
+2422,4,الشنانة,Ash Shinanah
+2423,4,الشورقية,Ash Shawraqiyah
+2424,4,القاع,Al Qa'
+2425,4,الروضة,Ar Rawdah
+2426,4,الطلعة,At Tal'ah
+2427,4,مظيفيرة,Mudhayfirah
+2428,4,الوشحاء,Al Washha
+2429,4,الهيشة,Al Hishah
+2430,4,الحزم,Al Hazm
+2431,4,العدان,Al 'adan
+2432,4,عين العقيلي,'ayn Al 'uqayli
+2433,4,روضة اللواف,Rawdat Al Lawwaf
+2434,4,العكرشية,Al 'ikrashiyah
+2435,4,زهلولة,Zihlulah
+2436,4,الرحيمية,Ar Ruhaymiyah
+2437,4,الوسطى,Al Wista
+2438,4,المفيض,Al Mafid
+2439,4,المحروقة,Al Mahruqah
+2440,4,مزارع خريمان,Mazari' Khurayman
+2441,4,الربقية,Ar Ribqiyah
+2442,4,أم طليحة,Umm Tulayhah
+2443,4,فردة,Fardah
+2444,4,الناصرية,An Nasiriyah
+2445,4,الخرماء الجنوبية,Al Kharma Al Janubiyah
+2446,4,النعايم,An Na'ayim
+2447,4,خريمان,Khurayman
+2448,4,المذنب,Al Midhnab
+2449,4,علباء,'alba
+2450,4,روضة الحسو,Rawdat Al Hisu
+2451,4,المربع,Al Murabba'
+2452,4,المحلاوية,Al Muhallawiyah
+2453,4,مزارع الحزم,Mazari' Al Hazm
+2454,4,ظليم,Dhulyim
+2455,4,الباطن,Al Batin
+2456,4,المرغلة,Al Murghalah
+2457,4,رغابية,Raghabiyah
+2458,4,الطعمية,At Tu'miyah
+2459,4,العداين,Al 'adayin
+2460,4,البويطن,Al Buwaytin
+2461,4,الرقة,Ar Riqa
+2462,4,العبلة,Al 'ablah
+2463,4,الروغاني,Ar Rawghany
+2464,5,الخفجي,Al Khafji
+2465,4,العوشزية,Al 'awshaziyah
+2466,4,وادى أبو على,Wadi Abu 'ali
+2467,4,رياض الخبراء,Riyad Al Khabra
+2468,4,شعب الحمر,Shi'b Al Hamar
+2469,4,صبيح,Subayh
+2470,4,نبيها,Nubayha
+2471,4,الشبيبة,Ash Shibibiyah
+2472,4,البدائع أم تلعة,Al Bada'i Umm Tal'ah
+2473,4,البدائع العليا,Al Badai Al 'ulya
+2474,4,العبيلة,Al 'ubaylah
+2475,4,مزرعة عبلا,Mazra'at At 'abla
+2476,4,عبل عبلا,'abal 'abla
+2477,4,الروضة,Ar Rawdah
+2478,4,العبدلية,Al 'abdaliyah
+2479,4,الحجناوي,Al Hajnawi
+2480,4,الدحلة,Ad Dahlah
+2481,4,البدائع,Al Badai'
+2482,4,دهيماء,Duhayma
+2483,4,الابرق,Al Abraq
+2484,4,العبيد,Al 'ubayd
+2485,4,النفيد,An Nufayyid
+2486,4,الخبراء,Al Khabra'
+2487,4,المحوى,Al Mahawa
+2488,4,فيضة ذيبان,Faydat Dhiban
+2489,4,مشرف,Mushrif
+2490,4,العابر,Al 'abir
+2491,4,مزارع الحقباء,Mazari Al Haqba
+2492,4,الحجبة,Al Hajbah
+2493,4,الظبة,Adh Dhabah
+2494,4,الدعثة,Ad Daathah
+2495,4,الضبة,Ad Dabbah
+2496,4,الحنية,Al Haniyah
+2497,4,ابو خشبة,Abu Khashabah
+2498,4,أم الخراسع,Umm Al Kharasi
+2499,4,الثامرية,Ath Thamiriyah
+2500,4,الداث,Ad Dath
+2501,4,مهدومة,Mahdumah
+2502,4,مزارع أم أرطى,Mazari' Umm Arta
+2503,4,الجرارية,Al Jarrariyah
+2504,4,خربشاء,Kharbasha
+2505,4,الظاهرية,Adh Dhahiriyah
+2506,4,الظاهرية الجنوبية,Adh Dhahiriyah Al Janubiyah
+2507,4,الناعمة,An Na'imah
+2508,4,الوطاة,Al Wutah
+2509,4,الغضياء,Al Ghadya
+2510,4,مزارع ثويدج,Mazari' Thuwaydij
+2511,4,الجرير,Al Jarir
+2512,4,القيصومة,Al Qaysumah
+2513,6,الكنهبلة,Al Kanahbilah
+2514,6,السهوة,As Sahwah
+2515,6,يانف,Yanif
+2516,6,حلباء,Halaba
+2517,6,العدوة,Al 'idwah
+2518,6,الطلحة,At Talhah
+2519,6,النماص,An Namas (Tanumah)
+2520,11,حمراء نثيل / ابو شداد,Hamrah Nithil (Abu Shadad)
+2521,11,خجيم,Khajim
+2522,11,يدمة,Yadamah
+2523,11,ابا الرخم,Aba Ar Rakham
+2524,11,مركز الوجيد,Markaz Al Wujid
+2525,11,ظلماء,Dhalma'
+2526,6,تباشعة,Tubash'ah
+2527,6,أم خيسة,Umm Khisah
+2528,6,صلحلح,Salahlah
+2529,6,آل خضاري,Al Khidari
+2530,8,النقرة,An Nuqrah
+2531,8,كمب الضلوع,Kamp Ad Dulu'
+2532,8,الحفير,Al Hufayr
+2533,8,الودي,Al Wudayy
+2534,8,قصر العشروات,Qasr Al Ishruwat
+2535,8,سراء,Sara'
+2536,8,فيضة بن سويلم,Faydat Ibn Suwaylim
+2537,8,النيصية,An Nisiyah
+2538,8,مريفق,Murayfiq
+2539,8,قفار,Qufar
+2540,8,توارين,Tuwarin
+2541,8,عقدة,'iqdah
+2542,8,المحفر,Al Muhaffar
+2543,8,المختلف,Al Mukhtalif
+2544,8,الصهوة,As Sahwah
+2545,8,اللويمي,Al Luwaymi
+2546,8,المستجدة,Al Mustajiddah
+2547,8,العجاجة,Al 'ajajah
+2548,8,الرقب,Ar Raqab
+2549,8,النمارة,An Nimarah
+2550,8,العيثمة,Al 'aythamah
+2551,8,لبدة,Libdah
+2552,8,ضرغط,Darghat
+2553,8,ضريغط,Duraighat
+2554,8,الحميمة,Al Humaimah
+2555,8,بدائع اول,Badai' Awl
+2556,8,الثمامية,Ath Thimamiyah
+2557,8,الحليفة العليا,Al Hulayfah Al 'ulya
+2558,8,مرحب الشمالي,Marhab Ash Shamali
+2559,8,العرادية,Al 'aradiyah
+2560,8,فيضة اثقب,Faydat Athqab
+2561,8,روض ابن هادي,Rawd Ibn Hadi
+2562,8,الوسعة,Al Was'ah
+2563,8,الشويمس,Ash Shiwaymis
+2564,8,البرقة,Al Barqah
+2565,8,الدابية,Ad Dabiyah
+2566,8,الحويط,Al Huwayyit
+2567,8,العقلة,Al 'uqlah
+2568,8,عمائر المرير,Ama'ir Al Murayr
+2569,8,بدع ابن خلف,Bid' Ibn Khalaf
+2570,8,المرير,Al Murayr
+2571,8,ام روشن,Umm Rawshan
+2572,8,صفيط,Sufayt
+2573,8,النحيتية,An Nuhaytiyah
+2574,8,مبرز,Mibarriz
+2575,8,المعرش,Al Ma'arrash
+2576,8,العوشزية,Al 'awshaziyah
+2577,8,وسيطاء الحفن,Wusayta' Al Hafan
+2578,8,البعايث,Al Ba'ayith
+2579,8,الزغيبية,Az Zughaibiyah
+2580,4,الفرعة,Al Far'ah
+2581,8,بدائع الصغوي,Badai' As Sighwa
+2582,8,الصغوى,As Sighawa
+2583,4,فيضة يكلب,Faydat Yaklib
+2584,4,مزارع القرائن,Mazari' Al Qarain
+2585,4,النويبات,An Nuwaybat
+2586,4,مزرعة مشرفة,Mazra'at Mishrifah
+2587,4,المخرم,Al Makhram
+2588,4,الطراق,At Tiraq
+2589,4,الصلبية,As Sulubiyah
+2590,5,راس تنورة,Ras Tannurah
+2591,5,رحيمة,Rahimah
+2592,8,بدائع الصفران,Badai' As Sufran
+2593,8,حمر القعساء,Humr Al Qa'asa
+2594,8,حريد,Hurayd
+2595,8,الديماسة,Ad Dimasah
+2596,8,القعساء,Al Qa'asa
+2597,8,وتدة,Wutidah
+2598,8,عقيلة اللبن,'uqaylat Al Laban
+2599,8,البلازية,Al Ballaziyah
+2600,8,خنقة الرماحي,Khanqat Ar Rimahi
+2601,8,غسل,Ghisil
+2602,8,سميراء,Simira'
+2603,8,الرفايع,Ar Rufayi'
+2604,8,قصير متروك,Qusayr Matruk
+2605,8,كتيفة,Kutaifah
+2606,8,وسيط,Wusayt
+2607,4,نفجة,Nafjah
+2608,4,الروضة,Ar Rawdah
+2609,4,المعدا,Al Ma'ada
+2610,4,مزارع الشيحية,Mazari Ash Shihiyah
+2611,4,الشيحية,Ash Shihiyah
+2612,4,أم قدة,Umm Qiddah
+2613,4,قليب خنيفسة,Qalib Khunayfisah
+2614,4,مزرعة الغبية,Mazra'at Al Ghibyah
+2615,4,أم العراد,Umm Al 'arad
+2616,4,الثابتية,Al Thabitiyah
+2617,4,بقيعاء الشمالية,Buqay'a Ash Shamaliyah
+2618,4,مزارع الرفائع,Mazari' Ar Rufai'
+2619,4,عسيلة,'usaylah
+2620,4,النجبة,An Nijibah
+2621,4,قليب الرجيمية,Qalib Ar Rujaymiyah
+2622,4,عقدة,'uqdah
+2623,4,أم خطوط,Umm Khutut
+2624,4,مزارع الوسيطاء,Mazari' Al Wusayta
+2625,8,المكحول,Al Makhul
+2626,4,كحلة,Kahlah
+2627,4,الأرطاوي الشمالي,Al Artawi Ash Shamali
+2628,4,الفيضة,Al Faydah
+2629,4,الهلالية,Al Hilaliyah
+2630,4,البكيرية,Al Bukayriyah
+2631,4,الفويلق,Al Fuwayliq
+2632,4,مشاش جرود,Mishash Jurud
+2633,4,الضلفعة,Ad Dalfa'ah
+2634,4,الطوال,At Tuwal
+2635,4,العليا,Al 'ulayya
+2636,4,الرفيعة,Ar Rafi'ah
+2637,4,الشباكية,Ash Shabbakiyah
+2638,8,الجابرية,Al Jabriyah
+2639,5,المراح,Al Marah
+2640,5,جودة,Judah
+2641,5,سلوى,Salwa
+2642,5,العقير,Al Uqayr
+2643,5,يبرين,Yabrin / Jabrin
+2644,5,البطالية,Al Bataliyah
+2645,5,الشقيق,Ash Shaqiq
+2646,5,القرين,Al Qarin
+2647,5,الوزية,Al Wizyah
+2648,5,القرن,Al Qarn
+2649,5,الخرس,Al Khars
+2650,5,الغويبة,Al Ghuwaybah
+2651,5,مريطبة,Muraytibah
+2652,5,سوده,Sudah
+2653,5,العمران,Al Umran
+2654,6,آل مجادب,Al Mijadib
+2655,6,السبت,As Sabt
+2656,6,آل الصعدي,Al As Sa'di
+2657,6,سدوان,Sadwan
+2658,6,الشعف,Ash Sha'f
+2659,6,لربوعة,Larbu'ah
+2660,6,قريش,Qiraysh
+2661,6,آل دحمان,Al Dahman
+2662,6,الجفر,Al Jafr
+2663,6,النماص,An Namas
+2664,6,شوحطة,Shuhitah
+2665,6,الرهوة,Ar Rahwah
+2666,6,قاها,Qaha
+2667,6,آل عزة,Al 'azzah
+2668,6,بيحان,Bihan
+2669,6,قرآنية,Quraniyah
+2670,6,العطوف,Al 'utuf
+2671,4,طلحة,Talhah
+2672,8,القصير,Al Qusayr
+2673,8,المهاش,Al Mahash
+2674,8,القاعية,Al Qa'iyah
+2675,8,بدائع قني,Badai' Qunay
+2676,8,مغيضة,Mughaydah
+2677,8,بطيحان,Butayhan
+2678,8,القحصية,Al Qahsiyah
+2679,8,الدوادمي,Ad Duwadimi
+2680,8,البنانة,Al Bananah
+2681,8,الركية,Ar Rukayyah
+2682,8,مرموثة العلم,Marmuthat Al 'alam
+2683,8,نخلة,Nakhlah
+2684,8,النميرة,An Numayyirah
+2685,8,قصيباء,Qusayba
+2686,8,ملحاء,Malha
+2687,8,الطرفاوي,At Tarfawi
+2688,8,الشقة,Ash Shiqqah
+2689,8,الشعيلاء,Ash Shu'ayla
+2690,8,بدائع الفقي,Bdai' Al Fuqayy
+2691,8,أم هشيم,Umm Hashim
+2692,8,خفيج أم هشيم,Khufayj Umm Hashim
+2693,8,الباحة,Al Bahah
+2694,8,العمائر,Al 'amair
+2695,8,الصور,As Sur
+2696,8,قرية عشيرة,Qaryat 'ishayrah
+2697,8,عقلة المخروق,'uqlat Al Makhruq
+2698,8,أم هشيم,Umm Hshim
+2699,8,مصدة,Masadah
+2700,8,أبلة,Ablah
+2701,8,القصيلة,Al Qusailah
+2702,8,السليمي,As Sulaymi
+2703,8,الحماد,Al Hamad
+2704,8,الوهيبيات,Al Wuhaybiyat
+2705,8,أرينبة,Uraynibah
+2706,8,فرتاج,Firtaj
+2707,8,الشبرية الصفراء,Ash Shibriyah As Safra
+2708,8,الشبرية الحمراء,Ash Shibriyah Al Hamra
+2709,8,الوسيطي,Al Wusayti
+2710,8,الصخنة,As Sikhinah
+2711,8,أفيعية,Afay'iyah
+2712,8,الهمجة,Al Hamjah
+2713,8,المعاذب,Al Ma'adhib
+2714,8,الهدية,Al Hudayyah
+2715,8,الغزالة,Al Ghazalah
+2716,8,الغريسة,Al Gharisah
+2717,8,المجيصة,Al Mijayssah
+2718,8,البركة,Al Birkah
+2719,8,طلوح,Tuluh
+2720,8,الحليفة السفلى,Al Hulayfah As Suflah
+2721,8,الحائط,Al Hait
+2722,8,الروضة,Ar Rawdah
+2723,8,قاع حجلا,Qa' Hajla
+2724,8,الخفج,Al Khufj
+2725,8,الفقي,Al Fuqay
+2726,8,النبوان,An Nabuwan
+2727,8,العقلة,Al 'uqlah
+2728,8,العوشري,Al Awshari
+2729,8,مرغان,Maraghan
+2730,8,الهويدي,Al Huwaidi
+2731,8,القصيصة,Al Qusaysah
+2732,8,المسجد,Al Masjid
+2733,8,سقف,Saqf
+2734,8,بدع ابن حويط,Bid' Bin Huwayyit
+2735,8,بدائع الصداعية,Badai' As Suda'iyah
+2736,8,ريع البكر,Ri' Al Bakr
+2737,5,الكلابية,Al Kilabiyah
+2738,5,المنيزلة,Al Munaizlah
+2739,5,القارة,Al Qarah
+2740,5,المنصورة,Al Mansurah
+2741,5,المزاوي,Al Mazawi
+2742,5,الحوطة,Al Hawtah
+2743,5,المركز,Al Markaz
+2744,5,الفضول,Al Fudul
+2745,5,الرميلة,Ar Rumaylah
+2746,5,الجشة,Al Jishshah
+2747,5,الشعبة,Ash Shi'bah
+2748,5,المبرز,Al Mubarraz
+2749,5,الجليجلة,Al Julijlah
+2750,5,المطيرفي,Al Mutairifi
+2752,5,بني معن,Bani Mu'n
+2754,5,الخن,Al Khinn
+2755,5,ام اثلة,Umm Athlah
+2756,5,خريص,Khurays
+2757,5,عريعرة,Uray'irah
+2758,5,متالع / ام تالع,Matali' / Umm Tali'
+2759,5,التويثير,At Tuwaythir
+2760,5,الدالوة,Ad Dalwah
+2761,5,الشهادين,Ash Shahadin
+2762,5,الحليلة,Al Halilah
+2763,5,الطرف,At Taraf
+2764,5,الجفر,Al Jafr
+2765,5,الحني,Al Hunayy
+2766,5,القصيبي,Al Qusaybi
+2767,5,الحبل,Al Habl
+2768,5,الحرملية,Al Harmaliyah
+2769,5,نباك,Nibak
+2770,4,البرجسية,Al Barjasiyah
+2771,4,مزرعة الزرقاء,Mazra'at Az Zarqa
+2772,4,مزارع أم ظهيرة,Mazrai' Umm Dhuhayrah
+2773,4,النبتى رية,An Nabta Rayyah
+2774,4,الرويضة,Ar Ruwaydah
+2775,4,الركية,Ar Rukayyah
+2776,4,أم طليحة,Umm Tulayhah
+2777,4,الشماسية,Ash Shimasiyah
+2778,4,الربيعية,Ar Rubay'iyah
+2779,4,العويقلية,Al 'uwayqiliyah
+2780,4,النبقية,An Nubqiyah
+2781,4,أم حزم,Umm Hazm
+2782,7,الخشة,Al Khashah
+2783,4,القرين,Al Qurayn
+2784,4,الهبيرية,Al Hubayriyah
+2785,4,البدع,Al Bid'
+2786,4,ساق,Saq
+2787,4,الشقران,Ash Shuqran
+2788,4,البكرة,Al Bakrah
+2789,4,دوبح,Dawbah
+2790,4,الفيضة,Al Faydah
+2791,4,طوال جبيرة,Tuwal Jubayrah
+2792,4,جبيرة,Jubayrah
+2793,4,الرحيمية,Ar Ruhaymiyah
+2794,2,الجمدة,Al Jimdah
+2795,2,ام الفروغ,Umm Al Furugh
+2796,2,الفجانة,Al Fajjanah
+2797,2,الحجرة,Al Hujrah
+2798,2,الجريف,Al Jurayf
+2799,2,الحجيرة,Al Hujayrah
+2800,2,رنية,Ranyah
+2801,2,العمائر,Al 'amair
+2802,2,القوز,Al Qawz
+2803,2,الابرق,Al Abraq
+2804,2,كويكب,Kuwaykib
+2805,2,الضرم,Ad Duram
+2806,2,العويلة,Al 'uwaylah
+2807,2,الاملح,Al Amlah
+2808,2,تربة الخيالة,Turabat Al Khiyalah
+2809,12,بني فروة,Bani Farwah
+2810,12,خدعة,Khid'ah
+2811,12,الحضيري,Al Hudayri
+2812,12,النعرة,An Na'arah
+2813,12,الثودة,Ath Thudah
+2814,6,جعبة,Ji'abah
+2815,12,بني سار,Bani Sar
+2816,12,الربوة,Ar Rabwah
+2817,12,الحشرج,Al Hashraj
+2818,6,مرازيق,Maraziq
+2819,12,العقيق,Al Aqiq
+2820,12,المطرية,Al Mutariyah
+2821,12,معشوقة,Ma'shuqah
+2822,12,وراخ,Wurakh
+2823,12,جرب,Jarab
+2824,12,كرا الحائط,Kara Al Hait
+2825,12,النصباء,An Nasba
+2826,12,بالحكم,Balhakam
+2827,12,آل صقاعة,Al Suqa'ah
+2828,12,المغثة,Al Maghthah
+2829,12,حظوة,Hadhwah
+2830,12,العقب,Al 'aqib
+2831,12,عمضان,'amdan
+2832,12,آل حبيبة,Al Habibah
+2833,12,مراوة,Marawah
+2834,12,الصفح,As Safh
+2835,12,المندق,Al Mandaq
+2836,12,بالخزمر,Bal Khazmar
+2837,12,القرن,Al Qarn
+2838,12,ال نعمة,Al Na'mah
+2839,12,دوس,Daws
+2840,12,الطرف,At Taraf
+2841,12,الخليف,Al Khalif
+2842,12,أبو غبار,Abu Ghubar
+2843,4,مرغان,Marghan
+2844,4,الإفيهد,Al Ifayhid
+2845,4,الحمادة,Al Hamadah
+2846,4,أشقر النومانيات,Ashqar An Numaniyat
+2847,4,النومانية,An Numaniyah
+2848,4,العمودة الجنوبية,Al 'amudah Al Janubiyah
+2849,4,العمودة الشمالية,Al 'amudah Ash Shamaliyah
+2850,4,الجرير,Al Jurayyir
+2851,4,الأشيعل,Al Ishay'il
+2852,4,القهيبية,Al Qihabiyah
+2853,4,الشعيفانية,Ash Shi'faniyah
+2854,4,المشاش,Al Mishash
+2855,4,دريميحة,Diraymihah
+2856,4,المصك,Al Masak
+2857,4,قريطة,Quraytah
+2858,4,مزارع الوسيطاء,Mazari Al Wusayta
+2859,4,قصر البطاح,Qasr Al Battah
+2860,4,السيح,As Sayh
+2861,4,الحملية,Al Himliyah
+2862,4,الصويتية,As Suwaytiyah
+2863,4,الأسامر,Al Asamir
+2864,4,الأساس,Al Asas
+2865,4,أبو نخلة,Abu Nakhlah
+2866,4,الشبيكية,Ash Shubaykiyah
+2867,4,الوسيطاء,Al Wusayta
+2868,4,جديد,Jadid
+2869,4,الطرفاوي,At Tarfawi
+2870,4,الخشيبي,Al Khishaybi
+2871,4,الحجازية,Al Hajjaziyah
+2872,11,زور العقارب,Zur Al 'aqarib
+2873,11,الغافية,Al Ghafiyah
+2874,11,صفاه,Sufah
+2875,11,العضبات,Al 'adabat
+2876,11,قطان,Qatan
+2877,11,ثار,Thar
+2878,11,حمى,Hima
+2879,6,الشرفات,Ash Shurafat
+2880,6,الرعي,Ar Ra'y
+2881,6,الطرق,At Tirq
+2882,6,الجرمة,Al Jirmah
+2883,6,الحشافة,Al Hashafah
+2884,6,حمضة,Hamadah
+2885,6,المطعن,Al Mat'an
+2886,6,المنجحة,Al Manjahah
+2887,6,الفيض,Al Fayd
+2888,6,غالب,Ghalib
+2889,6,سعيدة,Sa'idah
+2890,6,الأجرع الشمالي,Al Ajra' Ash Shamali
+2891,6,ذهبان,Dhahban
+2892,6,دبساء,Dabsa
+2893,6,البرك,Al Birk
+2894,6,القحمة,Al Qahmah
+2895,6,عمق,'amaq
+2896,6,الحظيرة,Al Hadhirah
+2897,6,آل حامد,Al Hamid
+2898,6,آل يوسف,Al Yusuf
+2899,6,البدلة,Al Badlah
+2900,6,لولاة,Lawlah
+2901,6,نجد قرض,Najd Qarad
+2902,6,جمان,Jumman
+2903,6,كثم,Kathm
+2904,6,السلامة,As Salamah
+2905,6,المثناة,Al Mathnah
+2906,6,الهضبة,Al Hadbah
+2907,6,لعصان,Li'san
+2908,6,المحالة,Al Mahalah
+2909,6,الشرف,Ash Sharaf
+2910,6,سر آل السريع,Sirr Al As Siri'
+2911,6,العبب,Al 'abab
+2912,6,الدارة,Ad Darah
+2913,6,الجرجر,Al Jarjar
+2914,6,عدوان,'adwan
+2915,6,العين,Al 'ayn
+2916,6,الجعجاع,Al Ja'ja'
+2917,6,الموسطة,Al Mawsatah
+2918,6,آل جمعة,Al Jum'ah
+2919,6,العزيزة,Al 'azizah
+2920,6,الهرير الغربي,Al Hirayr Al Gharbi
+2921,6,إيتارة,Itarah
+2922,6,أبو نخلة,Abu Nakhlah
+2923,6,القرح,Al Qurh
+2924,6,العرف,Al 'urf
+2925,6,أبو جرشة,Abu Jarshah
+2926,6,الخشم,Al Khashm
+2927,6,روغ العاند,Rugh Al 'anid
+2928,6,آل بالفلاح,Al Balfalah
+2929,6,حجلا,Hajla
+2930,6,العطفة,Al 'utfah
+2931,6,تانة,Tanah
+2932,6,آل الشيخ,Al Ash Shaykh
+2933,6,حبيب,Hubayyib
+2934,6,رغفة,Rughfah
+2935,6,عضاضة,'adadah
+2936,6,آل سرحان,Al Sirhan
+2937,6,القعرة,Al Qu'rah
+2938,6,آل يزيد,Al Yazid
+2939,6,المجمع,Al Majma'
+2940,6,الصيحاني,As Sayhani
+2941,6,البهيمة,Al Bihaymah
+2942,6,القرعاء,Al Qar'a
+2943,6,الجر الصغير,Al Jarr As Saghir
+2944,6,الشعف,Ash Sha'af
+2945,6,تمنية,Tamniyah
+2946,6,القرن,Al Qarn
+2947,6,آل علي,Al 'ali
+2948,6,عين الذيبة,'ayn Adh Dhibah
+2949,6,البارك,Al Barik
+2950,6,قرضة,Qaradah
+2951,6,آل زيدي,Al Zaydi
+2952,6,حصن الجرين,Husn Al Jarin
+2953,6,آل عاصم,Al 'asim
+2954,6,الجنفور,Al Janfur
+2955,6,عرايس,'arayis
+2956,6,عمام,'umam
+2957,6,الرهوة,Ar Rahwah
+2958,6,شوحط,Shuhat
+2959,6,منادرالعين,Manadir Al 'ayn
+2960,6,بني رزام,Bani Rizam
+2961,6,الملاحة,Al Malahah
+2962,6,الطلحة,At Talhah
+2963,6,شرمة,Sharmah
+2964,6,الحنق,Al Hanaq
+2965,6,القرين,Al Qurayn
+2966,6,آل مجمل,Al Mujammal
+2967,7,بجدة,Bajdah
+2968,6,طبب,Tabab
+2969,6,الشطاط,Al Shutat
+2970,6,العبيدية,Al 'abidiyah
+2971,6,السبت,As Sabt
+2972,6,حمالة,Himalah
+2973,6,العقيق,Al 'aqiq
+2974,6,العطفة,Al 'utfah
+2975,6,آل بسام,Al Bassam
+2976,6,آل دكين,Al Dukayn
+2977,6,آل مهدي,Al Mahadi
+2978,6,المصياد,Al Misyad
+2979,6,الجزعة,Al Juz'ah
+2980,6,آل مشدود,Al Mashdud
+2981,6,الجهمة,Al Jihmah
+2982,6,العسران,Al 'usran
+2983,6,آل بحبيب,Al Bihabib
+2984,6,آل قوشع,Al Qawsha'
+2985,6,القرن,Al Qarn
+2986,4,الدليمية,Ad Dilaymiyah
+2987,4,الفوارة,Al Fawwarah
+2988,4,عقلة الصقور,Uqlat As Suqur
+2989,4,الذيبية,Adh Dhibiyah
+2990,4,قصر ابن عقيل,Qasr Ibn 'uqayyil
+2991,4,قطن,Qitan
+2992,4,البصيري,Al Basiri
+2993,4,الخريشاء,Al Khuraysha
+2994,4,الدحلة,Ad Dihalah
+2995,4,النقرة,An Naqrah
+2996,4,مباري,Mibari
+2997,4,الجفن,Al Jifn
+2998,4,ديم,Daym
+2999,4,الهميلية,Al Humayliyah
+3000,4,عماير سعيدة,Amayir Si'idah
+3001,4,ذوقان الركايا,Dhawqan Ar Rakaya
+3002,4,الضاحي,Ad Dahi
+3003,4,الوهلان,Al Wahalan
+3004,4,العونية,Al 'awniyah
+3005,4,الحفيرة,Al Hufayyirah
+3006,4,الأشرفية,Al Ashrafiyah
+3007,4,مزرعة البسامية,Mazra'at Al Bassamiyah
+3008,4,الضلعة,Ad Dal'ah
+3009,4,غدفاء,Ghadfa
+3010,4,الغريبية,Al Ghuraybiyah
+3011,4,الفيحاء,Al Fayha
+3012,4,أم غويفة,Umm Ghuwayfah
+3013,4,الجناح,Al Janah
+3014,4,الحزم,Al Hazm
+3015,4,رياض قناء,Riyad Qana
+3016,4,المندسة,Al Mindassah
+3017,4,رفائع الحميمة,Rafai' Al Humaymah
+3018,4,مظيفر,Mudhayfir
+3019,4,العمودة,Al 'amudah
+3020,4,الروضة,Ar Rawdah
+3021,4,أبو طلح,Abu Talh
+3022,4,مهيضة,Mihayyidah
+3023,4,وادي النخيل,Wadi Al Nakhil
+3024,4,فياضة,Fayyadah
+3025,4,كحلة,Kihlah
+3026,4,رفائع الحجرة,Ruf'ai' Al Hajrah
+3027,4,مشاش ركيان,Mishash Rukayyan
+3028,4,أبو عرداء,Abu 'arda
+3029,4,الناصفة,An Nasifa
+3030,4,النبهانية,An Nabhaniyah
+3031,4,ثادج,Thadij
+3032,4,ربيق,Rubayq
+3033,4,سامودة,Samudah
+3034,4,الملقاء,Al Malqa
+3035,4,الخرماء,Al Kharma
+3036,4,الخرماءالشمالية,Al Kharma Ash Shamaliyah
+3037,4,الحيسونية,Al Haysuniyah
+3038,4,القعير,Al Qu'ayyir
+3039,4,العمار,Al 'amar
+3040,3,قريضة,Quraydah
+3041,3,الجصة,Al Jissah
+3042,3,ابيار علي,Abyar Ali
+3043,3,أبو كبير,Abu Kabir
+3044,3,الدويخلة,Ad Duwaykhilah
+3045,3,الوعيرة,Al Wu'ayrah
+3046,4,ام جرفان,Umm Jarfan
+3047,3,العيون,Al 'ayun
+3048,3,الخليل,Al Khulayl
+3049,3,نعامين,Na'amin
+3050,3,مليحة,Mulayhah
+3051,3,العاقول,Al 'aqul
+3052,3,الحار السفلى,Al Har As Sufla
+3053,3,مفرحات,Mufarrihat
+3054,3,القطيعاء,Al Qutay'a
+3055,3,الفرع,Al Fara'
+3056,3,الفقارة,Al Fuqarah
+3057,3,أرباق,Arbaq
+3058,3,المليليح,Al Mulaylih
+3059,3,المغرة,Al Magharah
+3060,3,أبو نمصات,Abu Numasat
+3061,3,دثير,Dithir
+3062,3,العقيلة,Al 'uqaylah
+3063,3,العوينة,Al 'uwaynah
+3064,3,الخضراء,Al Khadra
+3065,3,الثعلة,Ath Tha'alah
+3066,3,الحار العليا,Al Har Al 'ulya
+3067,3,المضيبعة,Al Mudaybi'ah
+3068,3,السوسي,As Susi
+3069,3,الشلايل,Ash Shalayil
+3070,3,أويدك,Uwaydik
+3071,3,الغريض,Al Gharid
+3072,3,الصيفي,As Sayfi
+3073,3,الغصن,Al Ghusan
+3074,3,الظمو,Adh Dhamu
+3075,3,الطرقية,Al Tarqiyah
+3076,3,أم العيال,Umm Al 'iyal
+3077,3,الملبنة,Al Malbanah
+3078,3,حنذ,Hanadh
+3079,3,الهندية,Al Hindiyah
+3080,3,المرير,Al Murayr
+3081,3,الدحو,Ad Duhu
+3082,3,النقيعاء,An Nuqay'a
+3083,3,المشينية,Al Mushayniyah
+3084,3,القافلة,Al Qafilah
+3085,3,اللثامة,Al Lithamah
+3086,3,الملحة,Al Milhah
+3087,3,العيزاء,Al 'ayza
+3088,3,النقرة,An Nuqrah
+3089,3,البردية,Al Bardiyah
+3090,3,العشيرة,Al 'ushayrah
+3091,3,القصيبة,Al Qisayyibah
+3092,3,الشوامين,Ash Shuwamin
+3093,3,الشفية,Ash Shifayyah
+3094,3,تيتد,Taytad
+3095,3,البييرات,Al Buyayrat
+3096,3,هرمة,Hurumah
+3097,3,العثيا,Al 'uthayya
+3098,7,شقري,Shiqri
+3099,3,شجوى,Shajwa
+3100,3,البوير,Al Buwair
+3101,3,الشقرة,Ash Shuqrah
+3102,3,الصويدرة,As Suwaydirah
+3103,3,الفريش,Al Furaysh
+3104,3,الريان,Ar Rayyan
+3105,3,المليليح,Al Mulaylih
+3106,3,الرصيعة,Ar Rasi'ah
+3107,3,ابيار الماشي,Abyar Al Mashi
+3108,3,رواوة,Ruwawah
+3109,3,الجفر,Al Jafur
+3110,3,ابو ضباع,Abu Diba'
+3111,3,المضيق,Al Madiq
+3112,3,الاكحل,Al Akhal
+3113,3,اليتمة,Al Yitimah
+3114,3,الفقير,Al Faqir
+3115,3,المندسة,Al Mandassah
+3116,3,بواط,Buwat
+3117,3,العصيلب,Al 'usaylib
+3118,3,الجفدور,Al Jifdur
+3119,4,مسكة,Miskah
+3120,4,أم المحاش,Umm Al Mahash
+3121,4,عيدة,'idah
+3122,4,الرفائع,Ar Rufai'
+3123,4,صميعر,Sumayir
+3124,1,فيضة سلام,Faydat Salam
+3125,4,طفيلة,Tufaylah
+3126,4,حليوة,Hulaywah
+3127,4,هرمول,Hurmul
+3128,1,روضة عسعس,Rawdat 'as'as
+3129,4,المطيوي,Al Mutaywi
+3130,4,بدائع هويشلة,Badai' Huwayshilah
+3131,1,الكفية,Al Kuffiyah
+3132,4,بقيعاء الجنوبية,Buqay'a Al Janubiyah
+3133,4,الرفايع النجج,Ar Rufayi' Al Najh
+3134,4,الظاهرية,Adh Dhahiriyah
+3135,4,المندسة,Al Mindassah
+3136,4,العقلة,Al 'uqlah
+3137,4,القاعية,Al Qa'iyah
+3138,1,الضبعية,Ad Dib'iyah
+3139,4,بدائع الضبعية,Badai Ad Dib'iyah
+3140,4,جفرة الجديدة,Jafrat Al Jadidah
+3141,4,جفرة,Jafrah
+3142,4,الحمادة,Al Hamadah
+3143,4,بدائع مشرفة,Badai' Mushrifah
+3144,4,نجخ الجنوبي,Najikh Al Janubi
+3145,4,نجخ الشمالي,Najikh Al Shamali
+3146,4,القويعية,Al Quway'iyah
+3147,4,صعينين,Su'aynin
+3148,4,ليم,Laym
+3149,4,السليسية,As Sulaysiyah
+3150,1,فيضة نومان,Faydat Noman
+3151,4,ضرية,Dariyah
+3152,4,الصمعورية,As Sum'uriyah
+3153,4,سلام,Salam
+3154,4,العاقر,Al 'aqir
+3155,4,بدائع ريمان,Badai' Riman
+3156,4,بدائع الضبطان,Badai' Ad Dubtan
+3157,4,البعجاء,Al Ba'ja
+3158,1,الحريق,Al Hariq
+3159,1,نعام,Na'am
+3160,1,حوطة الحلوة,Hutat Al Hilwah
+3161,1,حوطة بني تميم,Hawtat Bani Tamim
+3162,1,اسفل الباطن,Asfal Al Batin
+3163,1,الفرعة,Al Far'ah
+3164,1,المثعب,Al Mith'ab
+3165,1,الحلوة,Al Hilwah
+3166,1,الحيطان,Al Haytan
+3167,1,وادي البرك,Wadi Al Bark
+3168,1,الشكرة,Ash Shukrah
+3169,1,الفيصلية,Al Faysaliyah
+3170,1,النايفية,An Naifiyah
+3171,1,القطين,Al Qatin
+3172,1,الخرفة,Al Kharfah
+3173,1,الروضة,Ar Rawdah
+3174,1,ليلى,Layla
+3175,1,سويدانا,Swidana
+3176,1,مروان,Marwan
+3177,1,واسط,Wasit
+3178,1,الحمر,Al Hamr
+3179,1,البديع الجنوبى,Al Badi' Al Janubi
+3180,1,البديع الشمالي,Al Badi' Ash Shamali
+3181,1,الهدار,Al Haddar
+3182,1,ساقي الناهض,Saqi An Nahid
+3183,1,الغيل,Al Ghayl
+3184,1,ستارة,Sitarah
+3185,1,حراضة,Haradah
+3186,2,الفرعة,Al Far'ah
+3187,2,العثيثي,Al 'uthaythi
+3188,2,ا لحفائر,Al Hafa'ir
+3189,2,السلم,As Salam
+3190,2,القاعية,Al Qa'iyah
+3191,2,القوامة,Al Quwamah
+3192,2,الغافة,Al Ghafah
+3193,2,الحدة,Al Hiddah
+3194,2,المغراء,Al Maghara
+3195,2,العفيرية,Al 'ufayriyah
+3196,2,أبو ملوح,Abu Miluh
+3197,2,النغر,An Naghar
+3198,2,السدر,As Sadr
+3199,2,الجر ثمية,Al Jarr Thamiyyah
+3200,2,الحجف,Al Hijif
+3201,12,إبن غوف,Ibn Ghuf
+3202,12,الميفا,Al Mifa
+3203,12,القرن,Al Qarn
+3204,12,الامرة,Al Umrah
+3205,12,النجيل,An Nijil
+3206,12,الطيف,At Tayf
+3207,12,السمعة,As Sama'ah
+3208,12,نابر,Nabir
+3209,12,الضاحي,Ad Dahi
+3210,12,الزرعة,Az Zira'ah
+3211,12,الاشيرة,Al Ishayrah
+3212,12,الصور,As Sur
+3213,12,فرعة العطاردة,Fara't Al 'atardah
+3214,12,القهب,Al Qahab
+3215,12,الحصحص,Al Hashas
+3216,12,قراما,Qurama
+3217,12,العياش,Al 'ayyash
+3218,12,آل سعيد,Al Sa'id
+3219,12,الغصنة,Al Ghasanah
+3220,12,قلوة,Qilwah
+3221,12,الشعراء,Ash Sha'ra'
+3222,12,نيرا,Nira
+3223,12,الجوة,Al Jiwah
+3224,12,الفرع,Al Far'
+3225,12,الهتافرة,Al Hatafirah
+3226,2,القريع,Al Qari'
+3227,12,المسودة,Al Maswadah
+3228,12,الحشو,Al Hashu
+3229,2,فرعة بني سهيم,Fara't Bani Suhaym
+3230,2,العقدة,Al 'uqdah
+3231,2,العواصية,Al 'awasiyah
+3232,12,القصيباء,Al Qusayba
+3233,12,الرهوة,Ar Rahwah
+3234,12,الحصن,Al Husn
+3235,12,غامد الزناد,Ghamid Az Zinad
+3236,12,المخواة,Al Mukhwah
+3237,12,نصبة,Nusubah
+3238,12,ناوان,Nawan
+3239,6,العرق,Al 'irq
+3240,6,كعب,Ka'b
+3241,6,الخاضرة,Al Khadirah
+3242,6,القرن الأبيض,Al Qarn Al Abyad
+3243,6,الدحض,Ad Dahid
+3244,6,الظهارة,Adh Dhaharah
+3245,6,مخدرة,Makhdarah
+3246,6,الخضراء,Al Khadra
+3247,6,القرية,Al Qaryah
+3248,6,بني مليح,Bany Mulayh
+3249,6,وادي الغيل,Wadi Al Ghayl
+3250,6,مليح,Milayyah
+3251,6,ربوع السرو,Rubu' As Sarw
+3252,6,آل بو خشيف,Al Bukhishayf
+3253,6,بهوان,Bahwan
+3254,6,الضاربين,Ad Daribayn
+3255,6,آل مخلد,Al Makhlad
+3256,6,آل عباس,Al 'abbas
+3257,6,آل مضرة,Al Midrah
+3258,6,غاشرة,Ghashirah
+3259,6,ذبوب,Dhabub
+3260,6,مجالد,Mijalid
+3261,6,آل سخيطة,Al Sakhaytah
+3262,6,عبالة,'aballah
+3263,6,آل عبيد,Al 'ubayd
+3264,6,آل مشاعر,Al Misha'ir
+3265,6,مسفرة,Misfirah
+3266,6,آل فرش,Al Farsh
+3267,6,الحفاة,Al Hufah
+3268,6,الصرة,As Surrah
+3269,6,حوراء,Hawra
+3270,6,القرن,Al Qarn
+3271,6,كبدة,Kubadah
+3272,6,العينين,Al 'aynayn
+3273,6,تنومة,Tanumah
+3274,6,الواديين,Al Wadiyayn
+3275,6,بللسمر,Billasmar
+3276,6,آل لجم,Al Lajam
+3277,6,الاثنين,Al Ithnayn
+3278,6,آل غلفق,Al Ghalfaq
+3279,6,سحيبان,Suhayban
+3280,6,العمارة,Al 'ammarah
+3281,6,قيان,Qiyan
+3282,6,الغرس,Al Ghars
+3283,6,الحكيمة,Al Hakimah
+3284,6,الرقوة,Ar Raqwah
+3285,6,آل الجلدة,Al Al Jildah
+3286,6,مشروفة,Mashrufah
+3287,6,لاهمة,Lahmah
+3288,6,آل فهيد,Al Fuhayd
+3289,6,الحدباء,Al Hadba
+3290,6,آل صنيج,Al Sunayj
+3291,6,آل عرفان,Al 'urfan
+3292,6,آل كشيم,Al Kushaym
+3293,6,الحذيان,Al Hadhyan
+3294,6,العرفان,Al 'urfan
+3295,6,حافظ,Hafidh
+3296,6,العلوبي,Al 'ulubi
+3297,6,الرمضة,Ar Rumadah
+3298,6,العرين,Al 'arin
+3299,6,فرعة طريب,Turaib
+3300,6,الزهرة,Az Zahrah
+3301,6,آل معدي,Al Ma'addi
+3302,6,الغلقة,Al Ghiliqah
+3303,6,الجلدة,Al Jildah
+3304,6,آل قنبة,Al Qunbah
+3305,6,الربعة,Ar Riba'ah
+3306,6,الوهابة,Al Wahabah
+3307,6,آل سعيدة,Al Sa'idah
+3308,6,آل كولت,Al Kulat
+3309,6,آل جلال,Al Jallal
+3310,6,آل محي,Al Mihi
+3311,6,الحدباء,Al Hadba
+3312,6,الحنجور,Al Hunjur
+3313,6,الحنو,Al Hinu
+3314,6,المنابية,Al Manabiyah
+3315,6,الزهيد,Az Zuhayd
+3316,6,المحزمة,Al Muhazmah
+3317,6,الدربين,Ad Darbayn
+3318,10,الشعاقة,Ash Sha'aqah
+3319,6,عدن,'idin
+3320,6,الغول,Al Ghawl
+3321,6,درامة,Diramah
+3322,6,آل الخلف,Al Al Khalaf
+3323,6,آل مانع,Al Mani'
+3324,6,نقعة,Naq'ah
+3325,6,آل غبران,Al Ghubran
+3326,6,الفقاعيس,Al Fuqa'is
+3327,6,الحريقة,Al Hariqah
+3328,6,سراة عبيدة,Sarat Abidah
+3329,6,العطفة,Al 'utfah
+3330,6,الفرشة,Al Farshah
+3331,6,الربوعة,Ar Rabuah
+3332,6,الجوة,Al Jawwah
+3333,6,عرضين,Ardayn
+3334,11,ام الوهط,Umm Al Whaht
+3335,11,المنخلي,Al Minkhali
+3336,11,خد قيس,Khad Qays
+3337,11,الحمضة,Al Hamdah
+3338,11,تريمة,Tirimah
+3339,11,الظاهرة,Adh Dhahirah
+3340,11,رضية,Rudayyah
+3341,11,حزامة,Hazamah
+3342,11,بدر الجنوب,Badr Al Janub
+3343,11,الحرشف,Al Harshaf
+3344,11,هدادة,Hadadah
+3345,11,الخانق,Al Khaniq
+3346,11,الجفة,Al Jifah
+3347,11,شرورة,Sharurah
+3348,11,شقة الكناور,Shiqqat Al Kanawir
+3349,11,التماني,At Tamani
+3350,11,الوديعة,Al Wadi'ah
+3351,6,المجمع,Al Majma'
+3352,6,شيبة مسورة,Shaybat Miswarah
+3353,6,آل ثابت,Al Thabit
+3354,6,الجربة,Al Jirbah
+3355,6,الغيل,Al Ghayl
+3356,6,المجزعة,Al Majza'ah
+3357,6,آل عليا,Al 'alya
+3358,6,آل بيضاء,Al Bayda
+3359,6,آل معمر,Al Mu'ammar
+3360,6,الملحة,Al Malhah
+3361,6,الحاجر,Al Hajir
+3362,6,علب,Alb
+3363,6,الملطاء,Al Malta
+3364,6,الرهوة,Ar Rahwah
+3365,6,المجازة,Al Mijazah
+3366,6,بن لكرم,Bin Lakram
+3367,6,السلاطين,As Salatin
+3368,6,المحجر,Al Mahjar
+3369,6,الوسط,Al Wasat
+3370,6,العقدة,Al 'uqdah
+3371,6,آل الأشعث,Al Al Ash'ath
+3372,6,العنثري,Al 'anthari
+3373,6,آل عمران,Al 'imran
+3374,6,آل جحالي,Al Jihali
+3375,6,العرف,Al 'araf
+3376,6,دهر,Dihir
+3377,6,الحظيرة,Al Hadhirah
+3378,6,الخضراء,Al Khadra
+3379,6,علاف,'allaf
+3380,6,آل يعلى,Al Ya'la
+3381,6,ظهران الجنوب,Dhahran Al Janub
+3382,6,الطلحة,At Talaha
+3383,6,الحرجه,Al Harajah
+3384,6,الكولة,Al Kulah
+3385,6,القصب,Al Qasab
+3386,6,حمران,Humran
+3387,6,آل لهوة,Al Lahwah
+3388,11,الهويمل,Al Huwaymil
+3389,11,بئر خباش,Bir Khubash
+3390,11,الخضراء,Al Khadra'
+3391,11,قابل منيف,Qabil Minif
+3392,11,الهويد,Al Hawid
+3393,11,الحجف,Al Hijf
+3394,11,الدواس,Ad Dawas
+3395,11,لاهومة,Lahumah
+3396,11,حبونا,Hubuna
+3397,11,الحصينية,Al Husayniyah
+3398,10,قرار,Qarar
+3399,10,الكدارة,Al Kadarah
+3400,10,الهجنبة,Al Hajanbah
+3401,10,القاع,Al Qa'
+3402,10,الدرب,Ad Darb
+3403,10,ابو السداد,Abu As Sadad
+3404,10,الشقيق,Al Shuqayq
+3405,10,الحروف,Al Huruf
+3406,10,عتود,'itwad
+3407,10,رملان,Ramlan
+3408,10,المنجارة,Al Minjarah
+3409,10,الدولة,Ad Dawlah
+3410,10,مسلية,Misliyah
+3411,10,الفطيحة,Al Fatihah
+3412,11,الفيصلية,Al Faysaliyah
+3413,11,معمر ريمان,Ma'mar Riman
+3414,11,دوح,Dawwah
+3415,11,النقعاء,An Naq'a
+3416,11,النقعاء,An Naq'a
+3417,11,نجران,Najran
+3418,11,بئر عسكر,Bi'r 'askar
+3419,11,نهوقة,Nahuqah
+3420,11,ال شهي,Al Shahi
+3421,11,رجلاء,Rijla'
+3422,11,آل سوار,Alsuwar
+3423,11,المجمع,Al Majma
+3424,11,البرك,Al Barak
+3425,11,العريسة,Al 'arayyisah
+3426,10,رخية,Rakhyah
+3427,10,الريث,Ar Rayth
+3428,10,الرهوة,Al Rahwah
+3429,10,عثوان,'athwan
+3430,10,القعقاع,Al Qa'qa'
+3431,10,الشملاة,Ash Shamlah
+3432,10,السهية,As Suhayyah
+3433,10,عراب,'urab
+3434,10,الخطوة,Al Khutwah
+3435,10,الحناية,Al Hinnayah
+3436,10,النفيعة,An Nafi'ah
+3437,10,زوزاء,Zawza
+3438,10,الركبة,Ar Rukbah
+3439,10,العزة,Al 'izzah
+3440,10,خويعمة,Khuway'imah
+3441,10,الدخرة,Ad Dikarah
+3442,10,الخشعة,Al Khashah
+3443,10,الكوابسة,Al Kawabisar
+3444,10,الهيجاء,Al Hayja
+3445,10,اليمانية,Al Yamaniyah
+3446,10,فيفاء,Fayfa
+3447,10,الدائر,Ad Dair
+3448,10,عيبان,'aiban
+3449,10,الطرف,Al Taraf
+3450,10,ظاهرة الصفا,Dhahirat As Safa
+3451,10,القاع,Al Qa'
+3452,10,القتب,Al Qatab
+3453,10,الهياج,Al Hiyaj
+3454,10,العقدة,Al 'uqdah
+3455,10,العيدابي,Al 'aydabi
+3456,10,مقزع,Muqza'
+3457,10,هروب,Harub
+3458,10,الشريعة,Ash Shari'ah
+3459,10,الحجروف,Al Hajruf
+3460,10,نورة,Nurah
+3461,10,الأثلة,Al Athlah
+3462,10,بيش,Baysh
+3463,10,الحضن,Al Hadan
+3464,10,قوز الجعافره,Qouz Al Jaafrah
+3465,10,الحقو,Al Haqu
+3466,10,القوام,Al Quwam
+3467,10,المطعن,Al Mat'an
+3468,10,العداية,Al 'addayah
+3469,10,الباحر,Al Bahir
+3470,10,المعترض,Al Mu'tarid
+3471,10,نخلان,Nakhlan
+3472,10,الغرا,Al Ghara
+3473,10,العبادلة,Al 'abadilah
+3474,10,العريش,Al 'arish
+3475,10,مشلحة,Mushallahah
+3476,10,الرايغة,Ar Rayighah
+3477,10,الملحاة,Al Malha
+3478,10,الدهناء,Ad Dahna
+3479,10,صبيا,Sabya
+3480,10,قائم الدش,Qa'im Ad Dashsh
+3481,10,صبيا الجديدة,Sabya Al Jadidah
+3482,10,الكدمي,Al Kudmi
+3483,10,العشة,Al Ashah
+3484,10,السلام العليا,As Salam Al 'ulya
+3485,10,ابو القعايد,Abu Alqa'ayid
+3486,10,ابو السلع,Abu As Sala'
+3487,10,العالية,Al 'aliyah
+3488,10,غوان,Ghawwan
+3489,10,الحسيني,Al Husayni
+3490,10,الظبية,Al Dhabyah
+3491,10,الجمالة,Al Jammalah
+3492,10,السبخة,Al Sabakhah
+3493,10,الفقرة,Al Fiqarah
+3494,10,خبت سعيدة,Khabt Sa'idah
+3495,10,الحمي,Al Hima
+3496,10,السليل,As Sulayl
+3497,10,الجهو,Al Jahw
+3498,10,القمري,Al Qamri
+3499,10,ضمد,Damad
+3500,10,الخضيرة,Al Khudayrah
+3501,10,الشقيري,Ash Shuqairi
+3502,10,زبارة رشيد,Zabarat Rashid
+3503,10,قنبورة,Qanbura
+3504,10,بحرة,Bahrah
+3505,10,القائم,Al Qaim
+3506,10,المحصام,Al Muhsam
+3507,10,الحجاجة,Al Hajajah
+3508,10,الجربة,Al Jirbah
+3509,10,السادلية,As Sadiliyah
+3510,10,مريخية,Muraykhiyah
+3511,10,العروس,Al 'arus
+3512,10,الخزنة,Al Khuznah
+3513,10,العسيلة,Al 'usaylah
+3514,10,سد ملاكي,Sadd Malaki
+3515,10,الكتيفة,Al Kutayfah
+3516,10,السيبة,As Syabah
+3517,10,المرزوق,Al Marzuq
+3518,10,الحريقة,Al Hariqah
+3519,10,الرد,Ar Radd
+3520,10,دودة,Dudah
+3521,10,الدوشية,Ad Dawshiyah
+3522,10,أم الحجل,Umm Al Hajal
+3523,10,المقيدر,Al Muqaydir
+3524,10,السلامة,As Salamah
+3525,10,ابو عريش,Abu Arish
+3526,10,الحميرة,Al Humayrah
+3527,10,فلس,Falas
+3528,10,حاكمة,Hakimah
+3529,10,الصيابة,As Sayyabah
+3530,10,العباسية,Al 'abbasiyah
+3531,10,الكروس,Al Kurus
+3532,10,المبيت,Al Mubayyat
+3533,10,السرداح,As Sirdah
+3534,10,المعزاب,Al Mi'zab
+3535,10,السودي,As Sawadi
+3536,10,الحلحلة,Al Halhalah
+3537,10,وعلان,Wa'lan
+3538,10,البيسري,Al Baysuri
+3539,10,ديحمة,Dayhamah
+3540,10,الخلايف,Al Khalayif
+3541,10,الشنامرة,Al Shanamirah
+3542,10,صامطة,Samtah
+3543,10,الجرادية,Al Juradiyah
+3544,10,ابو حجر الاسفل,Abu Hajar Al Asfal
+3545,10,الدغارير,Ad Dagharir
+3546,10,حاكمة,Hakimah
+3547,10,حاكمة الدغارير,Hakimat Ad Dagharir
+3548,10,القفل,Al Qufl
+3549,10,السر,As Sirr
+3550,10,اللقية,Al Laqyah
+3551,10,ابو حجر الأعلى,Abu Hajar Al A'la
+3552,10,النجامية,An Nujamiyah
+3553,10,شعب الذئب,Shi'b Adh Dhib
+3554,10,الخوجرة,Al Khawjarah
+3555,10,الطوال,At Tuwal
+3556,10,المجنة,Al Mijannah
+3557,10,عنطوطة,Antutah
+3558,10,الجاظع,Al Jadhi'
+3559,10,الركوبة,Ar Rukubah
+3560,10,مجعر,Muj'ur
+3561,10,الموسم,Al Muwassam
+3562,11,الخرخير,Al Kharkhir
+3563,10,أبو طوق,Abu Tawq
+3564,10,العقيل,Al 'uqail
+3565,10,ختب,Khatb
+3566,10,صير,Sir
+3567,10,القصار,Al Qsar
+3568,10,المحرق,Al Muharq
+3569,10,جنابه,Gnaba
+3570,10,الميناء الجديد,New Port
+3571,10,فرسان,Farasan
+3572,3,أم صمدين,Umm Sumdayn
+3573,3,المشران,Al Mishran
+3581,7,بئر بن هرماس,Bir Ibn Hermas
+3582,5,الحليسية,Al Hulaysiyah
+3583,5,راس ام قصبة,Ras Umm Qusbah
+3584,10,خبت البقر,Khabt Al Baqar
+3585,10,الحنبة,Al Hanabah
+3586,10,عرق,Irq
+3587,10,أبو العشرة,Abu Al 'usharah
+3588,10,جرار,Jarrar
+3589,10,العيشة,Al 'ayshah
+3590,10,جبل عبادل,Jabal 'abadil
+3591,10,البحثة,Al Bihthah
+3592,10,المجازيع,Al Mijazi
+3593,10,المسكية,Al Maskiyah
+3594,10,حمية,Hamayah
+3595,10,السحار,As Sahhar
+3596,10,القصبة,Al Qasabah
+3597,10,العارضة,Al 'aridah
+3598,5,سنابس,Sanabis
+3599,10,قيس,Qays
+3600,10,الوحلة,Al Wahlah
+3601,10,العشوة,Al 'ishwah
+3602,10,الفقهاء,Al Fuqha
+3603,10,دحيقة,Duhayqah
+3604,10,الشواجرة,Ash Shawajirah
+3605,10,بخشة,Bakhshah
+3606,10,الاساملة,Al Asamilah
+3607,10,الخلفة,Al Khalfah
+3608,10,جاضع المحاضين,Jadi' Al Mahadin
+3609,10,الخمس,Al Khums
+3610,10,مستورة,Masturah
+3611,10,السداد,As Sudad
+3612,10,الزهبين,Az Zahabayn
+3613,10,صنبة,Sanbah
+3614,7,البدع,Al Bad'
+3615,10,المعبوج,Al Ma'buj
+3616,10,الخصاوية,Al Khasawiyah
+3617,10,المضاية,Al Madayah
+3618,10,البديع والقرفي,Al Badi' Wal Qarafi
+3619,10,مزهرة,Mizhirah
+3620,10,الكربوص,Al Karbus
+3621,10,الواصلي,Al Wasili
+3622,10,الريان,Ar Rayyan
+3623,10,قامزة,Qamizah
+3624,10,شهرين,Shahrayn
+3625,10,المروة,Al Marwah
+3626,10,الظهر,Adh Dhahar
+3627,10,العقم,Al 'aqum
+3628,10,الصبخاية,As Subkhayah
+3629,10,جلاح,Jilah
+3630,10,الراحة,Ar Rahah
+3631,10,المهدف,Al Mihdaf
+3632,10,مخشوش,Makhshush
+3633,10,الخوبة,Al Khawbah
+3634,10,القحمة,Al Qahmah
+3635,10,الخشل,Al Khashal
+3636,10,الجابري,Al Jabiri
+3637,10,جحا,Juha
+3638,10,السر,As Sirr
+3639,10,الهجنبة,Al Hijanbah
+3640,10,الشطيفية,Ash Shutayfiyah
+3641,10,الحصامة,Al Hassamah
+3642,10,الخضراء الشمالية,Al Khadra Ash Shamaliyah
+3643,10,السويدية,Al Suwaydiyah
+3644,10,رعشة,Rashah
+3645,10,المجامة,Al Mujammah
+3646,10,المخشلية,Al Mukhashshaliyah
+3647,10,الحامضة,Al Hamidah
+3648,10,الجعدية,Al Ja'diyah
+3649,10,المحامل,Al Mahamil
+3650,10,الحصمة,Al Hasamah
+3651,10,حاكمة,Hakimah
+3652,10,احد المسارحة,Ahad Al Musarihah
+3653,10,الحجفار,Al Hijfar
+3654,10,الطاهرية,At Tahiriyah
+3655,10,الحضرور,Al Hadrur
+3656,10,الدريعية,Ad Duray'iyah
+3657,10,البدوي,Al Badawi
+3658,10,الهلية,Al Halliyah
+3659,10,الحنيني,Al Hanini
+3660,10,قمعة,Qama'ah
+3661,10,المنجارة,Al Minjarah
+3662,10,المقرقم,Al Maqarqam
+3663,10,المحطة,Al Mahattah
+3664,10,الحقلة,Al Haqlah
+3665,10,أبو الرديف,Abu Ar Radif
+3666,2,مدينة الملك عبدالله الاقتصادية,King Abdullah Economic City
+3667,10,الخارش,Al Kharish
+3668,10,السهي,As Sahi
+3669,10,رمادا,Ramada
+3670,10,روان,Rawan
+3671,5,هجرة شهيل,Hijrat Shuhayl
+3672,1,البرزة,Al Barzah
+3673,1,أم سدرة,Umm Sidrah
+3674,1,مشذوبة,Mashdhubah
+3675,1,المفيجر,Al Mufaijir
+3676,6,وادي الحياة,Wadi Al Hayat
+3677,5,الاحساء,Al Ahsa
+3678,6,تندحة,Tendaha
+3679,9,السليمانية,As Sulaimaniyah
+3680,6,الواديين,Al Wadiyeen
+3681,6,الفيض,Al Fayd
+3682,6,ختبة,Khatbah
+3683,1,مشرفة,Mishrifah
+3684,2,اضم,Adham
+3685,8,الخلصة,Al Khlusah
+3686,5,السيح,Sieh
+3687,6,حسوة,Hiswah
+3688,6,الفرعين,Al Faraain
+3689,6,بللحمر,Billahmar
+3690,6,بحر ابو سكينة,Bahr Abu Sukaynah
+3691,1,العمق,Al Umaq
+3692,6,يعرى,Yaara
+3693,6,العيش,Al Aysh
+3694,7,جزيرة صنافير,Sanafir Island
+3695,7,جزيرة تيران,Tiran Island
+3696,3,سليلة جهينة,Salilat Juhaynah
+3697,6,المسقي,Al Masqi
+3698,1,الصفوية,As Safwiyah
+3699,10,آل علي,Al Ali
+3700,5,جواثا,Jawatha
+3701,13,الرفيعة,Ar Rafi'ah
+3702,5,رأس الخير,Ras Al Khair
+3703,3,البريكة,Al Buraikah
+3705,8,شعيب الصقعاء,Shuaib As Saqa'a
+3706,8,مشاش ابن جازي,Mashash Ibn Jazi
+3707,8,فيضة السمار,Faydat As Sammar
+3708,7,ذرفي,Dharfi
+3709,11,المشعلية,Al Mishaliyah
+3710,8,الخوي,Al Khawi
+3711,6,آل رحمة,Al Rahmah
+3712,2,السدين,As Saddain
+3771,1,العزيزيه,Al Aziziyah
+3788,1,شراف,Sharaf
+3794,1,الحبابيه,Al Hababiyah
+3901,1,السدريه,As Sadryah
+3902,1,الهويديه,Al Huwaydyah
+3903,1,العناديه,Al Enadyah
+3905,1,نعام,Naam
+3945,1,ابو سدر,Abu Sidr
+3946,1,مشرفة الكراشمه,Mushrifat Al Krashmah
+3996,1,السر,Al Sirr
+4028,1,الحيد,Al Heed
+4088,1,السيح,As Seeh
+4092,1,الصالحيه,Al-Salehiyah
+4131,1,الجنوبية بسدير,Southern Sudair
+4396,1,الوسيطا,Al Wasita
+4574,1,الجلة الجنوبي,Al Jellah Al Janubi
+4594,1,دهو,Daho
+4604,1,السلام,Al Salam
+4620,1,قمران,Qamran
+4621,1,ام سليم,Umm Sulaim
+4632,1,صيحة,Sayha
+4636,1,بلثقاء,Balthaqa
+4748,1,ام شيح,Umm Sheih
+4765,1,الحيانية,Al Hayaniya
+4807,1,صالحية كف,Salhiyat Kaf
+4815,1,المصيفقيه,Al Musayfiqih
+4816,1,الناصفه,Al Nasfah
+4837,1,الباينيه,Al Baynih
+4848,1,النزهة,Al Nuzha
+4865,1,الجامعية,Al Jamieyah
+4873,1,رفايع المزينى,Rufa'i Al Muzaini
+4947,1,الجافورة,Al Jaforah
+4972,1,الحفيرة,Al Hufayyirah
+4997,1,القرينه,Al Qurainah
+5001,1,غيانه وحرقان,Ghianah Wahurqan
+5022,1,العبدليه,Al Abdaliyah
+5164,2,الصدر,As Sadr
+5730,2,العقيق,Al Aqeeq
+5959,2,الوطاة,Al Watah
+6175,2,الفلحة,Al Falhah
+7035,2,غران,Gharan
+7680,2,الشباشبة,Al Shabashibah
+9594,3,الرذايا,Al Radhaya
+9605,3,ينبع الصناعية,Yanbu Al Sinaiyah
+10364,3,الرفيعة,Al Rafeah
+10366,3,المجرذية,Al Majradiyah
+10367,3,ضويل,Duwail
+10437,3,صبحا الجحفه,Sabha Al Jahfah
+10444,3,بدائع الحناحنه,Badai' Al Hanahanah
+10445,3,بدائع العوض,Badai' Al Awd
+10475,3,ملح,Malah
+10706,4,الجديدات,Al Jadidat
+10724,4,الحجره,Al Hiijrah
+10772,4,حريفيات درعه,Harifiyat Dareih
+10809,4,عين ابن فهيد,Ayn Ibn Fuhayd
+10824,4,تلعة رشيد,Tal'ah Rashid
+10826,4,كفت,Kofat
+10827,4,النويصفة,Al Nuwaisifah
+10828,4,الصحاف,Al Sihaf
+10829,4,مشرفة عمودان,Mishrifat Amudan
+10832,4,فيضة السلمات,Faidat Al Salamat
+10833,4,الخريشاء,Al Kharisha
+10835,4,العازمية,Al Azmiyah
+10842,4,ابو قليبات,Abu Qaleebat
+10852,4,الديرية,Al Deeriyyah
+10872,4,المرموثة,Al Marmuthah
+10873,4,المرموثة الشمالية,Al Marmuthah Ash Shamaliyah
+10879,4,مازونة,Mazunah
+10880,4,الصلبيه,Al Salbiyah
+10889,4,الكدادية,Al Kadadiyah
+10917,4,شقران الحاجر,Ash Shuqran Al Hajr
+10939,4,الفايزية,Al Fayziyah
+11040,5,هجرة فضيلة,Hijrath Fudailah
+11046,5,السالمية,Al Salimiyah
+11051,5,ابو طوطاحه البرازي,Abu Tutahah Al Barazi
+11054,5,الرقعى,Ar Ruq'i
+11055,5,الذيبيه,Al Dhibiyah
+11061,5,معرج السوبان,Ma’Raj Al Suban
+11062,5,خبيراء,Khubaira
+11090,5,تناقيب,Tanajib
+11094,5,غزلان,Ghazlan
+11113,5,الجوية,Al Jawiyah
+11127,5,الفردانية,Al Fardaniyah
+11129,5,الجيشية,Al Jaishiyah
+11130,5,انقير,Annaqeer
+11198,6,عين بن مصافح,Ain Bin Musafih
+11641,6,مصاولي,Masawly
+12351,6,الشقيريه,Al Shuqayriyah
+13989,6,آل قبره والقوزيه,Al Qibrah Al Quoziyah
+15607,6,العقيق,Al Aqiq
+17411,8,العريدة,Al Areedah
+17417,8,القرينين,Alqarinin
+17420,8,بدائع  الجرعاء,Al Badai' Al Jara
+17431,8,الضربة,Al Darbah
+17444,8,رجامة,Rijamah
+17456,8,الزبيرة,Al Zubairah
+17457,8,الخوير,Al Khuwair
+17465,8,الحيانية,Al Hayaniyah
+17467,13,الجبيلي,Al Jabayli
+17475,8,ام ساروت,Umm Sarut
+17476,8,الناصرية,Al Nasiriyah
+17477,8,الفويلق 2,Al Fuwailiq 2
+17478,8,الفويلق 1,Al Fuwailiq 1
+17491,8,بدائع العليا,Badayie Aleulya
+17493,8,ريع المحمي,Rai Al Mahmi
+17514,8,المنصورية,Al Mansuriyah
+17573,8,الرضفين,Al Radhfain
+17574,8,الشارف,Al Shaarif
+17577,8,روض العبد,Rawd Al Abd
+17613,8,الغانمية,Al Ganimiyah
+17614,8,الحمودية,Al Hamudiyah
+17639,8,حمه,Hama
+17648,8,أبو سويسيات,Abu Swaisiyat
+17662,8,الدحوه,Ad Dihwah
+17698,8,الشق,Al Shaq
+17704,8,بدائع الشق,Badai' Al Shaq
+17708,8,الصفراء,As Safra
+17740,8,اللبانه,Al Labana
+17743,8,وسعة الرس,Wasat Al Rass
+17744,8,الطنيب,Al Tuneib
+17750,8,البحره,Al Bahra
+17761,8,ام شعاري,Umm Sha'arei
+17762,8,اللخين عبيد,Al Lakheen Ubaid
+17777,8,المناخ,Al Manakh
+17778,8,المجصة,Al Majasah
+17780,8,البوييضة,Al Buwaiyidah
+17781,8,ابو دويحات,Abu Duyhat
+17791,8,المغار,Al Maghar
+17802,8,مران,Maran
+17827,8,الناصفة,An Nasifah
+17853,8,فيضة المسعار,Faidat Al Masa'r
+17863,9,الديدب,Al Didab
+17888,9,ابن عائش,Ibn Aesh
+17924,10,النعامية,Al Naeamia
+17925,10,الهجاريه,Al Hajariah
+17926,10,الخواجيه,Al Khawajih
+17927,10,السوالمه,Al Sawalimah
+17928,10,الباطنه,Al Batinah
+17929,10,الشمه,Al Shamuh
+17930,10,الرافعي,Al Rafie
+17931,10,الطراشه,Alt Arashah
+17932,10,الفقره,Al Faqrah
+17933,10,ابو الكرش,Abu Alkarsh
+17934,10,العرجين,Al Arjeen
+17935,10,الحواية,Al Hiwaya
+17936,10,العمارده,Al Amaridah
+17937,10,القصاده,Al Qasadah
+17938,10,السروريه,Al Saruriyah
+17939,10,النجابه و الجحاجح,Al Nijabah Wal Jahajih
+17940,10,عبدالله العيافي (العيافي),Abdullah Al Eyafi (Al Eyafi)
+17941,10,الجعاونه,Al Jaeawunah
+17942,10,حله محسن  المحاسنة,Halah Muhsin Al Muhasana
+17943,10,الدواحشه,Al Dawahishah
+17944,10,تيهان (حلة تيهان),Tyhan (Hulat Tyhan)
+17945,10,الخواره,Al Khawarah
+17946,10,الشواهية,Al Shawahiyah
+17947,10,الشعاره,Al Shiarah
+17948,10,القواعة,Al Qawaea
+17991,10,الشاخر,Al Shaakhir
+17992,10,ام الشباقاء,Umm Al Shibaqa
+17993,10,اللخبصية,Al Lakhabsia
+17994,10,الصامخ,Al Samikh
+17995,10,الجاره القديمه,Al Jarah Al Qadiumah
+17996,10,الزينيه,Al Ziniyah
+17997,10,حلة علي بن موسى,Hulat Ali Bin Musa
+17998,10,ام القحفه,Umm Al Qahfah
+17999,10,حلة المكي,Hulat Al Makki
+18000,10,حلة العرشي,Hulat Al Earshi
+18001,10,قبه,Qibah
+18002,10,الخضراء,Al Khadraa
+18003,10,حله عطيه,Halah Attieh
+18004,10,حله ابو مرعي,Halah Abu Marei
+18005,10,الدحيقي,Al Daheeqi
+18006,10,الحشيبرية,Al Hashibiria
+18008,10,الرونه,Al Runah
+18009,10,حله محمد عيسى,Halah Muhamad Eisa
+18010,10,حله العقيبي,Halah Aleaqibiu
+18011,10,حله القميري,Halah Al Qamiri
+18012,10,حله مشاري,Halah Mishary
+18013,10,حله الصهلولي,Halah Al Sahluli
+18014,10,حله الحو تين,Halah Alhawa Tyn
+18015,10,حله بن علوان,Halah Bin Alwaan
+18016,10,حله الحكمى,Halah Al Hukmaa
+18017,10,حله عبدالله قبع,Halah Abdullah Qabea
+18018,10,حله مروعي بن شامي,Halah Maruei Bin Shamy
+18019,10,حله الكلابيه,Halah Al Kalabih
+18020,10,ابو دنقور,Abu Danqur
+18021,10,الجديين,Al Jidiayn
+18022,10,زباره الجديين,Zubarah Al Jidyeen
+18023,10,شيبان,Shayban
+18025,10,قرية الجوابره,Qaryat Al Jawabirih
+18026,10,الشواجرة والجرابية,Al Shawajirat Wal Jarabiyah
+18027,10,الزيني,Al Zayni
+18028,10,المحاصيه,Al Mahasih
+18029,10,جميما,Jameema
+18030,10,حنقفه,Hanaqfah
+18031,10,الحوامضه جحيش,Al Hawamidah Jahish
+18032,10,الزقله,Al Zaqlah
+18043,10,شهده,Shahdah
+18044,10,الكلبه,Al Kalabah
+18045,10,الفصاله والدغاريه,Al Fisalah Wal Dagharih
+18046,10,الشقافه والمصاوفة,Al Shiqafah Wal Musawafa
+18048,10,الشعافه,Al Shaeafah
+18049,10,ابوالمقره,Abu Al Maqrah
+18052,10,العواجمه,Aleawajimuh
+18053,10,وجه الحسن,Wajah Alhasan
+18054,10,العرضه,Alearduh
+18055,10,البطيح,Albatih
+18056,10,السداده,Alsidaduh
+18057,10,النزلـــه,Alnzlh
+18058,10,عوانه,Eawanah
+18059,10,العبده,Aleabduh
+18060,10,ابو الطيور,'abu Altuyur
+18061,10,ام العرش,Umm Alearsh
+18062,10,منسيه,Mansih
+18063,10,الصنيف,Alsanif
+18064,10,الحمضيه,Alhimdih
+18065,10,الحرف,Alharaf
+18066,10,المجديره,Almajdiruh
+18067,10,حلة ابو حبيبه,Hulat 'abu Habibuh
+18068,10,الخوالده,Alkhawaliduh
+18069,10,الزيديه,Alzaydiuh
+18070,10,الحجرين,Alhajarayn
+18071,10,جريبه,Jaribuh
+18072,10,زربه,Zarabah
+18073,10,الهدوى,Alhadwaa
+18074,10,الحقاويه,Alhaqawih
+18075,10,العسيله,Aleasiluh
+18076,10,الرجيع,Alrajie
+18077,10,حلة ابراهيم عيسى,Hulat 'iibrahim Eisaa
+18078,10,الكومه,Alkawmuh
+18191,10,الخشابية,Al Khashabiyah
+18210,10,الشابطه,Al Shabitah
+18285,10,سلام بني واصل,Salam Bani Wasal
+18436,10,الواسط,Al Wasit
+19924,10,الغفقيه,Al Ghafqiyah
+19927,10,الشعفوليه,Ash Shuafuliyah
+19931,10,الظبرة,Al Dhabrah
+21068,10,سمرة الجد,Samrat Al Jed
+21167,10,منشبة,Manshabah
+21168,10,العرق,Al Arq
+21981,12,الفرح,Al Farah
+21984,12,قذانه,Al Qadhanah
+22799,12,الضحوات,Al-Dahwat
+23385,13,ابورواث,Aburawas
+23386,13,هديب,Hedeb
+23388,13,الحرة,Al Harah
+23408,13,أطناب,Athnab
+23416,13,بسيطاء,Basithah
+23419,8,حبران,Habran
+23420,4,ابرقية,Abraqiyah
+999999,5,المنطقة الشرقية (غير محدد),Westeren Region (unspecific)

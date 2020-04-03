@@ -8,46 +8,70 @@ English
 
 جمعت هذه البيانات من مصادر رسمية في مكان واحد للحصول على تفصيلات مثل: أعداد المصابين القادمين من الخارج، وأعداد المصابين نتيجة الاحتكاك بمصابين آخرين.
 
-<h2>الحقول</h2>
+<h2>الحقول لكل ملف</h2>
 
-<h3>date</h3>
+<h3>الملف العام <code>covid-sa-combined.csv</code></h3>
+
+<h4>date</h4>
 تاريخ الإعلان عن الحالات
 
-<h3>new_cases</h3>
+<h4>new_cases</h4>
 مجموع الحالات الجديدة ويشمل الحالات القادمة من الخارج، والحالات الناتجة عن مخالطة مرضى سابقين، والحالات التي أعلن أنه سيتم التحقيق فيها، وحالات الممارسين الصحيين.
 
-<h3>from_outside</h3>
+<h4>from_outside</h4>
 الحالات المسجلة لقادمين من خارج المملكة العربية السعودية
 
-<h3>from_inside</h3>
+<h4>from_inside</h4>
 الحالات المسجلة لمخالطين لمرضى سابقين
 
-<h3>unknown</h3>
+<h4>unknown</h4>
 الحالات التي أعلن أنه سيتم التحقيق فيها
 
-<h3>health_workers</h3>
+<h4>health_workers</h4>
 الحالات التي كان المصابون فيها ممارسين صحيين.
 
-<h3>recovered</h3>
+<h4>recovered</h4>
 الحالات التي تماثلت للشفاء في التاريخ المذكور
 
-<h3>critical</h3>
+<h4>critical</h4>
 عدد الحالات التي أعلن عن كونها حالات حرجة في التاريخ المذكور
 
-<h3>death</h3>
+<h4>death</h4>
 الحالات التي أعلن عن تعرضها للوفاة بسبب المرض في التاريخ المذكور
 
-<h3>accumulative</h3>
+<h4>accumulative</h4>
 مجموع الحالات الجديدة من أول يوم وحتى تاريخه
 
+<h3>ملف المدن <code>covid-sa-by-city.csv</code></h3>
+
+<h4>date</h4>
+تاريخ الإعلان عن الحالات
+
+<h4>city_id</h4>
+الرقم الفريد للمدينة، المرتبط ببياناتها في ملف <code>cities.csv</code>
+
+<h4>new_cases</h4>
+الحالات المعلنة في هذه المدينة أو المحافظة في التاريخ المقابل
+
+<h4>accumulative_city</h4>
+مجموع حالات المدينة بدأً من أول يوم مسجل وحتى تاريخه
+
 <h2>عوائق وقصور</h2>
+
+في ملف <code>covid-sa-combined.csv</code>
 
 1. بيانات ناقصة بتاريخي 21 و 23 مارس
 1. يوم 13 مارس أعلن فيه عن 24 حالة مفصلة وفقًا لحسابي وزارة الصحة وحساب واس عام، ولكن عند الرجوع للموقع الرسمي للجائحة يظهر عدد الحالات 41 حالة، دون تفصيل، استخدمت الأرقام المفصلة، لكن لا أعلم أيهما أصح.
 
+في ملف <code>covid-sa-by-city.csv</code>
+1. لم أعثر على بيانات تفصيلية للمدن قبل تاريخ 9 مارس
+1. لم أعثر على بيانات تفصيلية للمدن بتاريخ 12 مارس
+1. بعض الحالات أعلنت بأنها محجورة في المنطقة الشرقية بدون تحديد، وقد وسمتها بالرقم الفريد 99999
+
+
 <h2>تحسينات محتملة</h2>
 
-1. إضافة تفاصيل الحالات المتعلقة بالمدن في ملف آخر
+- [x] ~~إضافة تفاصيل الحالات المتعلقة بالمدن في ملف آخر~~
 
 <h2>المساهمة</h2>
 أكثر من مرحبٍ بها! ولكن يجب إرفاق المصدر الذي حَصل منه على المعلومات ف طلب الدمج
@@ -81,44 +105,68 @@ I collected data from official Saudi resources into one place including cases th
 
 ## Columns
 
-### date
+## combined
+
+#### date
 Date of announcement 
 
-### new_cases
+#### new_cases
 Sum of new cases of date, including: cases of travellers from infected countries, cases of people who got in  contact with previously infected cases, cases of unknown origin, and cases of health workers.
 
-### from_outside
+#### from_outside
 Cases of travellers from infected countries to Saudi Arabia
 
-### from_inside
+#### from_inside
 Cases of people who got in contact with previously infected subjects
 
-### unknown
+#### unknown
 Cases that were announced as "under investigation"
 
-### health_workers
+#### health_workers
 Cases were subjects are health workers
 
-### recovered
+#### recovered
 Cases who were announced as recoverd on that date.
 
-### critical
+#### critical
 Cases who were announced as critical on that date.
 
-### death
+#### death
 Cases who were announced dead due to COVID-19.
 
-### accumulative
+#### accumulative
 Sum of new cases from first registered case until that date.
 
+## By city
+
+#### date
+Date of announcement 
+
+#### city_id
+ID of city, corresponds to its data in `cities.csv`
+
+#### new_cases
+New cases in the corresponding city and date
+
+#### accumulative_city
+Sum of cases for this city starting from first day in data until the corresponding date
+
 ## Limitations
+
+### Combined
 1. Missing data on 21st and 23rd of March
 1. On 13rd of March, Ministry of Health and SPA announced 24 cases with details;
  however, in the same date, the offical COVID-19 website mentioned 41 cases without details.
  I went with the detailed data, as I had (or don't know) anyway to know which one is correct.
 
- ## Potential TODOs:
-1. Add city related details in another file
+### By City
+1. I couldn't find data before 9th of March.
+1. I couldn't find data for cities on 12th of March.
+1. Some cases were announced as "quranited in Westeren Region" without specific information for the cities. I gave these a `city_id` of `99999`
+
+
+ ## TODOs:
+- [x] ~~Add city related details in another file~~
 
 ## Contribution
 Highly welcomed! As long as you mention the specific resource of data you're trying to add
